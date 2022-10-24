@@ -1,13 +1,26 @@
 ---
+template: event.html
 title: Retour sur EuroPython 2022
 date: 2022-09-29
+category: talk
+language: fr
 authors:
-    - Romain Clement
-    - Pierre-Loïc Bayart
-location: La Turbine.coop, 5 esplanade Andry Farcy, 38000 Grenoble
+  - rclement
+  - plbayart
+location:
+  name: La Turbine.coop
+  address: 5 esplanade Andry Farcy, 38000 Grenoble
+cover: events/2022-09-29/static/banner.png
+content:
+  slideshow: events/2022-09-29/slides.html
+tags:
+  - fr
+  - talk
 ---
 
-![Banner](static/banner.png)
+![Cover](static/banner.png)
+
+## Résumé
 
 **Après 2 ans et demi d'interruption, le Meetup Python Grenoble est de retour !**
 
@@ -20,3 +33,16 @@ Si vous avez toujours voulu assister et/ou participer à une conférence europé
 [Romain Clement](https://www.linkedin.com/in/romainclement/) est ingénieur et formateur indépendant en développement logiciel et DevOps appliqué au traitement de données et intelligence artificielle.
 
 Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
+
+## Présentation
+
+<iframe
+  src="slides.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
