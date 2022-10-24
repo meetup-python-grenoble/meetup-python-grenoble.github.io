@@ -3,12 +3,9 @@ name: CI/CD
 on: [push]
 
 jobs:
-  slides:
-    name: Build and Deploy Slides
+  build:
+    name: Build
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: https://meetup-python-grenoble.github.io
 
     steps:
       - uses: actions/checkout@v3
@@ -40,9 +37,34 @@ jobs:
       - name: Build static site
         run: |
           pipenv run mkdocs build --strict
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: gh-pages
+          name: build
+          path: dist
+
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    if: contains(github.ref, 'main')
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Download build artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: build
+          path: dist
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: dist
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
