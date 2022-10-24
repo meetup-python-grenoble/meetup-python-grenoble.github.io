@@ -1,0 +1,73 @@
+site_name: Meetup Python Grenoble
+site_description: Meetup Python Grenoble
+site_author: Romain Clement
+site_url: https://meetup-python-grenoble.github.io
+
+repo_name: meetup-python-grenoble/meetup-python-grenoble.github.io
+repo_url: https://github.com/meetup-python-grenoble/meetup-python-grenoble.github.io
+edit_uri: edit/main/content/
+docs_dir: content
+site_dir: dist
+
+extra:
+  version: 1.0.0
+  authors:
+    mjbright:
+      name: Mike Bright
+      url: https://www.linkedin.com/in/mjbright/
+    rclement:
+      name: Romain Clement
+      url: https://www.linkedin.com/in/romainclement/
+    plbayart:
+      name: Pierre-Loïc Bayart
+      url: https://www.linkedin.com/in/pierreloicbayart/
+  social:
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/
+      name: Meetup
+    - icon: fontawesome/brands/github
+      link: https://github.com/meetup-python-grenoble/meetup-python-grenoble.github.io
+      name: GitHub
+  tags:
+    fr: fr
+    en: en
+    talk: talk
+    game: game
+
+theme:
+  name: material
+  custom_dir: "overrides/"
+  palette:
+    primary: green
+  features:
+    - navigation.sections
+    - navigation.tracking
+  logo: static/python-logo-only.svg
+  favicon: static/python-logo-only.svg
+  icon:
+    tag:
+      default: fontawesome/solid/tag
+      fr: fontawesome/solid/language
+      en: fontawesome/solid/language
+      talk: fontawesome/solid/microphone
+      game: fontawesome/solid/gamepad
+
+nav:
+  - 🛖 Home: index.md
+  - 🎤 Events:
+    - events/2022-10-25/index.md
+    - events/2022-09-29/index.md
+
+plugins:
+  - search:
+      lang:
+        - en
+        - fr
+  - tags:
+      tags_file: tags.md
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: "#"
+  - pymdownx.magiclink

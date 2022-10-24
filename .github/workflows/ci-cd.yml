@@ -1,0 +1,45 @@
+name: CI/CD
+
+on: [push]
+
+jobs:
+  slides:
+    name: Build and Deploy Slides
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.10'
+      - name: Cache Python modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/Pipfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install --upgrade pipenv
+          pipenv install --dev --deploy
+      - name: Build slides
+        run: |
+          pipenv run jupyter nbconvert \
+            --to=slides \
+            --output-dir='' \
+            --output='' \
+            --SlidesExporter.file_extension=.html \
+            --SlidesExporter.reveal_theme=white \
+            */**/slides.ipynb
+      - name: Build static site
+        run: |
+          pipenv run mkdocs build --strict
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: gh-pages

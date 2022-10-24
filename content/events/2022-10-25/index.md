@@ -11,9 +11,14 @@ location:
   name: La Turbine.coop
   address: 5 esplanade Andry Farcy, 38000 Grenoble
 cover: events/2022-10-25/static/cover.png
+tags:
+  - fr
+  - game
 ---
 
 ![Cover](static/cover.png)
+
+## Résumé
 
 Si les châteaux hantés, les zombies et autres sorcières ne vous font plus assez peur, le meetup Python d'octobre est fait pour vous. Vous y croiserez des exceptions venues d'un autre monde, du code qui donne la chair de poule (request) et peut-être même... des expressions régulières 😱
 
