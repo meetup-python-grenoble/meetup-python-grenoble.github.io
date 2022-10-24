@@ -6,6 +6,9 @@ jobs:
   slides:
     name: Build and Deploy Slides
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: https://meetup-python-grenoble.github.io
 
     steps:
       - uses: actions/checkout@v3
