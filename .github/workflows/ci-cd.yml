@@ -33,7 +33,7 @@ jobs:
             --output='' \
             --SlidesExporter.file_extension=.html \
             --SlidesExporter.reveal_theme=white \
-            */**/slides.ipynb
+            content/events/*/slides.ipynb
       - name: Build static site
         run: |
           pipenv run mkdocs build --strict
