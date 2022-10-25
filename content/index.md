@@ -26,9 +26,9 @@ Want to talk about something Python-related to the Grenoble crowd? Please submit
 
 ## Hosts
 
-[![mjbright](https://avatars.githubusercontent.com/u/1880109){ width=100 }](https://github.com/mjbright)
-[![rclement](https://avatars.githubusercontent.com/u/1238873){ width=100 }](https://github.com/rclement)
-[![plbayart](https://avatars.githubusercontent.com/u/37104025){ width=100 }](https://github.com/Pierre-Loic)
+[![mjbright](https://avatars.githubusercontent.com/u/1880109){ width=100 }](https://github.com/mjbright "Michael J Bright")
+[![rclement](https://avatars.githubusercontent.com/u/1238873){ width=100 }](https://github.com/rclement "Romain Clement")
+[![plbayart](https://avatars.githubusercontent.com/u/37104025){ width=100 }](https://github.com/Pierre-Loic "Pierre-Loïc Bayart")
 
 ## Partners
 
