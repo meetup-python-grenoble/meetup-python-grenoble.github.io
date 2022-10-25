@@ -42,8 +42,8 @@ theme:
   features:
     - navigation.sections
     - navigation.tracking
-  logo: static/python-logo-only.svg
-  favicon: static/python-logo-only.svg
+  logo: static/icon.svg
+  favicon: static/icon.svg
   icon:
     tag:
       default: fontawesome/solid/tag
