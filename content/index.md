@@ -1,22 +1,35 @@
 ---
 title: Home
-hide:
-  - toc
 ---
 
 # Meetup Python Grenoble
 
+<!-- ![Logo](static/python-logo-generic.svg) -->
+
 ![Banner](static/banner.jpeg)
 
-Groupe d'utilisateurs de Python pour discuter de tout ce qui tourne autour de
-Python mais aussi d'autres langages et technologies développeurs.
+Python user group from [Grenoble (France)](https://www.grenoble.fr) discussing
+everything related to the [Python programming language](https://www.python.org),
+while still being open to every other languages and technologies!
+
+## Links
+
+[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/)
+
+[:fontawesome-brands-github: GitHub](https://github.com/meetup-python-grenoble)
 
 ## Submissions
 
-Want to talk about something Python-related to the Grenoble crowd? Please submit your pitch by opening an issue on GitHub!
+Want to talk about something Python-related to the Grenoble crowd? Please submit your pitch on GitHub!
 
-[Submit](https://github.com/meetup-python-grenoble/meetup-python-grenoble.github.io/issues){ .md-button }
+[Submit an event](https://github.com/meetup-python-grenoble/meetup-python-grenoble.github.io/issues/new?assignees=&labels=submission&template=submission.yml&title=New+Event+Submission){ .md-button }
+
+## Hosts
+
+[![mjbright](https://avatars.githubusercontent.com/u/1880109){ width=100 }](https://github.com/mjbright)
+[![rclement](https://avatars.githubusercontent.com/u/1238873){ width=100 }](https://github.com/rclement)
+[![plbayart](https://avatars.githubusercontent.com/u/37104025){ width=100 }](https://github.com/Pierre-Loic)
 
 ## Partners
 
-[![La Turbine.coop](static/laturbine.png){width=230}](https://turbine.coop "La Turbine.coop Website")
+[![La Turbine.coop](static/laturbine.png){ width=200 }](https://turbine.coop "La Turbine.coop Website")
