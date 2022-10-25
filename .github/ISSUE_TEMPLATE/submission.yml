@@ -1,0 +1,53 @@
+name: Event Submission
+description: Submit your event idea!
+title: "[Event]: "
+labels: ["Event"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: The title of your event, keep it short!
+      placeholder: e.g. Unit-testing Python functions
+    validations:
+      required: true
+  - type: input
+    id: pitch
+    attributes:
+      label: Pitch
+      description: The pitch of your event
+      placeholder: e.g. During this event, Monty will present how to...
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      description: What kind of event do you have in mind?
+      multiple: false
+      options: [Talk, Quiz, Workshop]
+  - type: dropdown
+    id: duration
+    attributes:
+      label: Duration
+      description: How long should the event last?
+      multiple: false
+      options: [15mn, 30mn, 45mn, 60mn]
+  - type: checkboxes
+    id: availability
+    attributes:
+      label: Availability
+      description: Which months are you available?
+      options:
+        - label: January
+        - label: February
+        - label: March
+        - label: April
+        - label: May
+        - label: June
+        - label: July
+        - label: August
+        - label: September
+        - label: October
+        - label: November
+        - label: December
