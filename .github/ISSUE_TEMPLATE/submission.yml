@@ -26,6 +26,8 @@ body:
       description: What kind of event do you have in mind?
       multiple: false
       options: [Talk, Quiz, Workshop]
+    validations:
+      required: true
   - type: dropdown
     id: duration
     attributes:
@@ -33,6 +35,8 @@ body:
       description: How long should the event last?
       multiple: false
       options: [15mn, 30mn, 45mn, 60mn]
+    validations:
+      required: true
   - type: checkboxes
     id: availability
     attributes:
