@@ -1,7 +1,10 @@
+# GitHub Issue Form schema:
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
+
 name: Event Submission
 description: Submit your event idea!
-title: "[Event]: "
-labels: ["Event"]
+title: "New Event Submission"
+labels: ["submission"]
 body:
   - type: input
     id: title
@@ -11,7 +14,7 @@ body:
       placeholder: e.g. Unit-testing Python functions
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: pitch
     attributes:
       label: Pitch
