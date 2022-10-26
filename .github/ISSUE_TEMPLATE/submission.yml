@@ -23,6 +23,15 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: theme
+    attributes:
+      label: Theme
+      description: What is the main theme of the event?
+      multiple: false
+      options: [Data, AI, Web, DevOps, Operating Systems, Other]
+    validations:
+      required: true
+  - type: dropdown
     id: kind
     attributes:
       label: Kind
@@ -40,6 +49,23 @@ body:
       options: [15mn, 30mn, 45mn, 60mn]
     validations:
       required: true
+  - type: dropdown
+    id: sponsored
+    attributes:
+      label: Sponsored
+      description: Is this event sponsored?
+      multiple: false
+      options: ["No", "Yes"]
+    validations:
+      required: true
+  - type: input
+    id: sponsor_name
+    attributes:
+      label: Sponsor Name
+      description: Who is the sponsor?
+      placeholder: e.g. My Company, Inc.
+    validations:
+      required: false
   - type: checkboxes
     id: availability
     attributes:
