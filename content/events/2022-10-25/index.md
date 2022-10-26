@@ -2,21 +2,16 @@
 template: event.html
 title: Python Horror Show
 date: 2022-10-25
-category: game
+category: quiz
 language: fr
 authors:
-  - rclement
   - plbayart
-location:
-  name: La Turbine.coop
-  address: 5 esplanade Andry Farcy, 38000 Grenoble
+  - rclement
+location: turbine
 cover: events/2022-10-25/static/cover.png
-tags:
-  - fr
-  - game
+content:
+  slideshow: events/2022-10-25/slides.html
 ---
-
-![Cover](static/cover.png)
 
 ## Résumé
 
@@ -25,3 +20,20 @@ Si les châteaux hantés, les zombies et autres sorcières ne vous font plus ass
 Dans un format un peu différent des meetups classiques, nous vous proposons de venir de (re-)découvrir de manière ludique certains comportements étranges du code Python ainsi que des extraits de code qui font froid dans le dos.
 
 Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.html)
+
+## Présentation
+
+<iframe
+  src="slides.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>

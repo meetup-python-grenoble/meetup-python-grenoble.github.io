@@ -1,4 +1,4 @@
-# Meetup Python Grenoble
+# 🐍 Meetup Python Grenoble
 
 ![Banner](content/static/banner.jpeg)
 

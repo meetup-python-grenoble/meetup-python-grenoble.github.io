@@ -15,12 +15,19 @@ extra:
     mjbright:
       name: Mike Bright
       url: https://www.linkedin.com/in/mjbright/
+      avatar: https://avatars.githubusercontent.com/u/1880109
     rclement:
       name: Romain Clement
       url: https://www.linkedin.com/in/romainclement/
+      avatar: https://avatars.githubusercontent.com/u/1238873
     plbayart:
       name: Pierre-Loïc Bayart
       url: https://www.linkedin.com/in/pierreloicbayart/
+      avatar: https://avatars.githubusercontent.com/u/37104025
+  locations:
+    turbine:
+      name: La Turbine.coop
+      address: 5 esplanade Andry Farcy, 38000 Grenoble, France
   social:
     - icon: fontawesome/brands/meetup
       link: https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/
@@ -32,13 +39,24 @@ extra:
     fr: fr
     en: en
     talk: talk
-    game: game
+    quiz: quiz
 
 theme:
   name: material
   custom_dir: "overrides/"
   palette:
-    primary: green
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
   features:
     - navigation.sections
     - navigation.tracking
@@ -50,7 +68,7 @@ theme:
       fr: fontawesome/solid/language
       en: fontawesome/solid/language
       talk: fontawesome/solid/microphone
-      game: fontawesome/solid/gamepad
+      quiz: fontawesome/solid/gamepad
 
 nav:
   - 🛖 Home: index.md
@@ -67,10 +85,13 @@ plugins:
       tags_file: tags.md
 
 markdown_extensions:
+  - admonition
   - attr_list
   - toc:
       permalink: "#"
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.magiclink
+  - pymdownx.superfences

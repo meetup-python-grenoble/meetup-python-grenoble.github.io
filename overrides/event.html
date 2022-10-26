@@ -1,1 +1,97 @@
-{% extends "base.html" %}
+{% extends "main.html" %}
+
+{% block styles %}
+{{ super() }}
+<style>
+.event-meta {
+  display: flex;
+  align-items: center;
+  font-size: .6rem;
+  color: var(--md-default-fg-color--light);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.event-authors {
+  margin-right: 0.5rem;
+}
+
+.event-author-avatar {
+  width: 1.6rem;
+  border-radius: 100%;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<!-- Actions -->
+{% include "partials/actions.html" %}
+
+<!-- Title -->
+<h1>{{ page.title | d(config.site_name, true)}}</h1>
+
+<!-- Tags -->
+{% if "tags" in config.plugins %}
+  {% include "partials/tags.html" %}
+{% endif %}
+
+<!-- Metadata -->
+<div class="event-meta">
+  <div class="event-authors">
+    {% for author in page.meta.authors %}
+    <a href="{{ config.extra.authors[author].url }}" title="{{ config.extra.authors[author].name }}">
+      <img
+        class="event-author-avatar"
+        src="{{ config.extra.authors[author].avatar }}"
+        alt="{{ author }}"
+      >
+    </a>
+    {% endfor %}
+  </div>
+
+  <div class="event-items">
+    <span class="twemoji">{% include ".icons/fontawesome/solid/calendar.svg" %}</span>
+    {{ page.meta.date }}
+    ·
+    <span class="twemoji">{% include ".icons/fontawesome/solid/map-location.svg" %}</span>
+    {% set location = config.extra.locations[page.meta.location] %}
+    {% set location_url = 'https://www.openstreetmap.org/search?query=' + location.name + ', ' + location.address %}
+    <a href="{{ location_url }}" title="{{ location.address }}">{{ location.name }}</a>
+    ·
+    {% if page.meta.category == 'talk' %}
+    <span class="twemoji">{% include ".icons/fontawesome/solid/microphone.svg" %}</span>
+    {% elif page.meta.category == 'quiz' %}
+    <span class="twemoji">{% include ".icons/fontawesome/solid/gamepad.svg" %}</span>
+    {% endif %}
+    {{ page.meta.category }}
+    ·
+    {% if page.meta.language == 'fr' %}
+    <img alt="🇫🇷" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg" title=":fr:">
+    {% elif page.meta.language == 'en' %}
+    <img alt="🇬🇧" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" title=":gb:">
+    {% endif %}
+    {{ page.meta.language }}
+  </div>
+</div>
+
+<hr>
+
+<img src="{{ page.meta.cover|url }}" alt="Cover">
+
+<!-- Page content -->
+{{ page.content }}
+
+<!-- Source file information -->
+{% if page.meta and (
+  page.meta.git_revision_date_localized or
+  page.meta.revision_date
+) %}
+  {% include "partials/source-file.html" %}
+{% endif %}
+
+<!-- Was this page helpful? -->
+{% include "partials/feedback.html" %}
+
+<!-- Comment system -->
+{% include "partials/comments.html" %}
+{% endblock %}

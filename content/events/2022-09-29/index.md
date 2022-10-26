@@ -7,18 +7,11 @@ language: fr
 authors:
   - rclement
   - plbayart
-location:
-  name: La Turbine.coop
-  address: 5 esplanade Andry Farcy, 38000 Grenoble
+location: turbine
 cover: events/2022-09-29/static/banner.png
 content:
   slideshow: events/2022-09-29/slides.html
-tags:
-  - fr
-  - talk
 ---
-
-![Cover](static/banner.png)
 
 ## Résumé
 
@@ -33,6 +26,10 @@ Si vous avez toujours voulu assister et/ou participer à une conférence europé
 [Romain Clement](https://www.linkedin.com/in/romainclement/) est ingénieur et formateur indépendant en développement logiciel et DevOps appliqué au traitement de données et intelligence artificielle.
 
 Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.html)
 
 ## Présentation
 
