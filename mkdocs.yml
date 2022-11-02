@@ -75,6 +75,7 @@ nav:
   - 🎤 Events:
     - events/2022-10-25/index.md
     - events/2022-09-29/index.md
+  - 🎨 Branding: branding.md
 
 plugins:
   - search:
