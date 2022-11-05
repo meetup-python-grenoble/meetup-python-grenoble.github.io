@@ -1,0 +1,64 @@
+{% extends "main.html" %}
+
+{% block styles %}
+{{ super() }}
+<style>
+.event-article {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.event-cover {
+  margin-right: 0.5rem;
+}
+
+.md-typeset h2 {
+  margin: 0;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+{{ super() }}
+
+<hr>
+
+<div class="events">
+
+{% set index_files = pages
+  | selectattr('url', 'startswith', page.url)
+  | selectattr('src_uri', '!=', page.file.src_uri)
+  | selectattr('page.meta.date')
+  | sort(reverse=True, attribute='page.meta.date')
+%}
+
+{% for file in index_files %}
+{% set page_url = file.page.url|url %}
+<article class="event-article">
+  <!-- <div class="event-cover">
+    <a href="{{ page_url }}">
+      <img src="{{ file.page.meta.cover|url }}" width="128">
+    </a>
+  </div> -->
+
+  <div>
+    <h2>
+      <a href="{{ page_url }}">{{ file.page.title }}</a>
+    </h2>
+
+    <small>
+      <span class="twemoji">{% include ".icons/fontawesome/solid/calendar.svg" %}</span>
+      {{ file.page.meta.date }}
+      ·
+      <span class="twemoji">{% include ".icons/fontawesome/solid/map-location.svg" %}</span>
+      {% set location = config.extra.locations[file.page.meta.location] %}
+      {% set location_url = 'https://www.openstreetmap.org/search?query=' + location.name + ', ' + location.address %}
+      {{ location.name }}
+    </small>
+  </div>
+</article>
+{% endfor %}
+</div>
+{% endblock %}
