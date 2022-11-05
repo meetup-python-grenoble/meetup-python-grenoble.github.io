@@ -1,0 +1,13 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base",
+    ":preserveSemverRanges",
+    ":disableDependencyDashboard"
+  ],
+  "enabledManagers": ["pipenv", "github-actions"],
+  "rangeStrategy": "bump",
+  "labels": ["dependencies"],
+  "assignees": ["rclement"],
+  "reviewers": ["rclement"]
+}
