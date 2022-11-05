@@ -9,7 +9,7 @@ name = "pypi"
 jupyterlab = "==3.4.8"
 mkdocs = {version = "==1.4.2", extras = ["i18n"]}
 mkdocs-material = "==8.5.8"
-nbconvert = "==7.2.1"
+nbconvert = "==7.2.3"
 pymdown-extensions = "==9.6"
 
 [requires]
