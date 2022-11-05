@@ -10,7 +10,7 @@ jupyterlab = "==3.5.0"
 mkdocs = {version = "==1.4.2", extras = ["i18n"]}
 mkdocs-material = "==8.5.8"
 nbconvert = "==7.2.3"
-pymdown-extensions = "==9.6"
+pymdown-extensions = "==9.7"
 
 [requires]
 python_version = "3.10"
