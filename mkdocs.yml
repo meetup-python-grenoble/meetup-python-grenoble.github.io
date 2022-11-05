@@ -72,9 +72,7 @@ theme:
 
 nav:
   - 🛖 Home: index.md
-  - 🎤 Events:
-    - events/2022-10-25/index.md
-    - events/2022-09-29/index.md
+  - 🎤 Events: events/index.md
   - 🎨 Branding: branding.md
 
 plugins:
@@ -84,6 +82,9 @@ plugins:
         - fr
   - tags:
       tags_file: tags.md
+
+hooks:
+  - hooks.py
 
 markdown_extensions:
   - admonition
