@@ -24,6 +24,14 @@ extra:
       name: Pierre-Loïc Bayart
       url: https://www.linkedin.com/in/pierreloicbayart/
       avatar: https://avatars.githubusercontent.com/u/37104025
+    sbauza:
+      name: Sylvain Bauza
+      url: https://www.linkedin.com/in/sylvainbauza/
+      avatar: https://avatars.githubusercontent.com/u/3694158
+    rribaud:
+      name: René Ribaud
+      url: https://www.linkedin.com/in/ren%C3%A9-ribaud-44145137/
+      avatar: https://avatars.githubusercontent.com/u/2332209
   locations:
     turbine:
       name: La Turbine.coop
