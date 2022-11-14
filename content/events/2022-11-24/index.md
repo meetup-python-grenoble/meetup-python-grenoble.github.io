@@ -9,6 +9,10 @@ location: turbine
 cover: events/2022-11-24/static/cover.png
 ---
 
+## Inscription
+
+[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/289757113/){ .md-button }
+
 ## Résumé
 
 L'adage dit "Tester c'est douter !"
