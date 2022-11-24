@@ -34,6 +34,42 @@ crowd? Please submit your event idea by filling the issue form on GitHub!
 
 [Submit an event](https://github.com/meetup-python-grenoble/meetup-python-grenoble.github.io/issues/new?assignees=&labels=submission&template=submission.yml&title=New+Event+Submission){ .md-button }
 
+### Latest Submissions
+
+<div id="gh-submission-list"></div>
+
+<template id="gh-submission-template">
+  <article class="gh-submission-item">
+    <h4><a class="gh-submission-url" href="">Title</a></h4>
+    <small>Submitted by <a class="gh-submission-author" href="">username</span></small>
+  </article>
+</template>
+
+<script>
+function addSubmissionItem(submission) {
+  const submissionList = document.querySelector('#gh-submission-list')
+  const submissionTemplate = document.querySelector('#gh-submission-template')
+  const submissionItem = submissionTemplate.content.cloneNode(true)
+  const link = submissionItem.querySelector('.gh-submission-url')
+  const author = submissionItem.querySelector('.gh-submission-author')
+
+  link.setAttribute('href', submission.html_url)
+  link.text = submission.title
+
+  author.setAttribute('href', submission.user.html_url)
+  author.text = submission.user.login
+
+  submissionList.appendChild(submissionItem)
+}
+
+async function getLatestSubmissions(repository) {
+  const response = await fetch(`https://api.github.com/repos/${repository}/issues?state=open&labels=submission`)
+  const submissions = await response.json()
+  submissions.forEach(addSubmissionItem)
+}
+
+getLatestSubmissions('meetup-python-grenoble/meetup-python-grenoble.github.io')
+</script>
 
 ## Discussions
 
