@@ -1,16 +1,16 @@
 ---
-title: The zen of the meetup
+title: The Zen of the Meetup
 hide:
   - footer
 ---
 
-# 🐍 The Zen of the meetup
+# 🐍 The Zen of the Meetup
+
+This is the _raison d'être_ of our community. It shall be treated as a guideline
+for events and code of conduct. Also, it must be repeated like a _legend_ at the
+beginning of every event!
 
 ## 🇬🇧 English
-
-```python
->>> import this
-```
 
 ```
 Community is better than polarity.
@@ -34,4 +34,10 @@ Face aux erreurs, refusez la tentation de critiquer.
 Si le sujet de votre exposé est difficile à expliquer, c'est une bonne idée.
 Si le sujet de votre exposé est facile à expliquer, c'est aussi une bonne idée.
 Les meetups Python sont une excellente idée - il faut en faire davantage !
+```
+
+## Inspiration
+
+```python
+>>> import this
 ```
