@@ -1,0 +1,475 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Quest to the fake object</title>
+
+		<meta name="description" content="Quest to the fake object">
+		<meta name="author" content="Sylvain Bauza" >
+		<meta name="author" content="René Ribaud" >
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+		<link rel="stylesheet" href="https://unpkg.com/reveal.js@3.8.0/css/reveal.css">
+		<!-- <link rel="stylesheet" href="https://unpkg.com/reveal.js@3.8.0/css/theme/beige.css" id="theme"> -->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Satisfy">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="https://unpkg.com/reveal.js@3.8.0/lib/css/github.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'https://unpkg.com/reveal.js@3.8.0/css/print/pdf.css' : 'https://unpkg.com/reveal.js@3.8.0/css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+			<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+
+		<style type="text/css">
+		.iwantitatleft { text-align: left; }
+		.lots_of_items ul { font-size: 0.6em; text-align: left; }
+		.lots_of_items h3 { font-size: 0.7em; }
+		.lots_of_items h4 { font-size: 0.6em; }
+		.lots_of_items code { font-size: 0.7em; }
+		.pic { position: relative; float: left; width:50%; top: 0px; }
+		.left_text { position: relative; float: left; width:50%; text-align: left; }
+		.left_text_bio { position: relative; float: left; width:50%; font-size:0.6em; text-align: left; }
+		.right_text { width:50%; text-align: left; float: right; text-align: left; }
+    .skill-list li { font-size: 1.5rem; margin-top: 1rem; }
+		/*
+		.reveal a { color: #007DBA; }
+		.reveal h2 b { color: #0096D6; }
+		.reveal h2 .day { font-size: 0.6em; position:relative; bottom: 20px; }
+		*/
+		.reveal { font-family: "Satisfy", "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans,sans-serif; font-size:40px; }
+		.reveal h2 { margin-top: 35px; }
+		.reveal ul { margin: 0 0 0 0; }
+		.reveal pre { width: 100%; font-size:18px; }
+		.reveal pre code { max-height: 100%; }
+		.reveal section img { border: none; box-shadow: none; background: rgba(255, 255, 255, 0.0); }
+
+		body { line-height:1.1; }
+		</style>
+	</head>
+
+	<body>
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section data-background="images/background.svg" data-background-size="cover">
+				<!-- <section> -->
+					<h1>Quest to the fake object</h1>
+					<img src="images/quest.png" alt="quest" width="40%">
+          <!-- <h3></h3> -->
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>2 words about us</h2>
+					<div class="left_text_bio">
+            <ul>
+              <li>Stats</li>
+              <ul>
+                <li>First name: Sylvain</li>
+                <li>Last name: Bauza</li>
+                <li>Age: 42</li>
+              </ul>
+            </ul>
+
+            <ul>
+              <li>Skills</li>
+              <ul>
+                <li>Class: Software engineer</li>
+                <li>Subclass: Upstream Nova PTL</li>
+                <li>Latest Guilde: Red Hat</li>
+                <li>Preferred weapon: Python / Bash</li>
+                <li>Artefact: Openstack Nova</li>
+                <li>Age of Experience: 9 years</li>
+              </ul>
+            </ul>
+
+            <ul>
+              <li>Optional traits</li>
+              <ul>
+                <li>Like winter vegetables</li>
+				<li>Hardware wrangler</li>
+				<li>Community herder</li>
+              </ul>
+            </ul>
+					</div>
+					<div class="pic">
+						<img src="images/sylvain-2.jpg" alt="Sylvain" width="53%">
+					</div>
+        </section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>2 words about us</h2>
+					<div class="left_text_bio">
+            <ul>
+              <li>Stats</li>
+              <ul>
+                <li>First name: René (Uggla)</li>
+                <li>Last name: Ribaud</li>
+                <li>Age: 47</li>
+              </ul>
+            </ul>
+
+            <ul>
+              <li>Skills</li>
+              <ul>
+                <li>Class: Software engineer</li>
+                <li>Previous Class: Solution architect (Cloud / Devops)</li>
+                <li>Latest Guilde: Red Hat</li>
+                <li>Game start: 1998</li>
+                <li>Preferred weapons: Python / Rust</li>
+                <li>Artefact: Openstack Nova</li>
+              </ul>
+            </ul>
+
+            <ul>
+              <li>Optional traits</li>
+              <ul>
+                <li>Linux and FLOSS since 1995</li>
+                <li>Participate in "Les Compagnons du Devops" podcast</li>
+              </ul>
+            </ul>
+					</div>
+					<div class="pic">
+						<img src="images/uggla.jpg" alt="René" width="80%">
+					</div>
+        </section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>What has motivated this call ?</h2>
+						<img src="images/why.svg" alt="why" width="10%">
+					<div class="iwantitatleft">
+						<ul>
+							<li>Discussion about testing and the conclusion that mocking is a mandatory skill to write good tests</li>
+							<li>Present mocking in python which is really powerful and quite easy to implement</li>
+							<li>Revival of the Grenoble python meetup</li>
+						</ul>
+					</div>
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>What we will try to cover with this presentation ?</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Speak a little about testing in python looking at 2 testing frameworks</li>
+							<ul>
+								<li>unittest</li>
+								<li>pytest</li>
+							</ul>
+							<li>Mainly focus on the mocking part</li>
+							<li>and covering both unit tests and integration tests</li>
+						</ul>
+					</div>
+					<!-- <div class="pic"> -->
+					<!-- 	<img src="images/why.svg" alt="rip" width="28%"> -->
+					<!-- </div> -->
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>How ?</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>We will go back and forth looking at the slides and reviewing code (📺) in the editor</li>
+							<li>Feel free to interrupt or ask questions if something is unclear</li>
+							<li>Of course it is better to have interactions, we can play with the code</li>
+						</ul>
+					</div>
+					<img src="images/back_forth.png" alt="back and forth" width="80%">
+					<!-- <div class="pic"> -->
+					<!-- </div> -->
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Disclaimer</h2>
+					<img src="images/warning.svg" alt="warning" width="15%">
+					<div class="iwantitatleft">
+						<ul>
+							<li>Code samples are probably not clean or production ready</li>
+							<li>Tests are biased and adapted to the demonstration</li>
+							<li>We have only built tests we need to illustrate our talk</li>
+							<li>Looking at all features of test frameworks is impossible in a 1h time slot</li>
+							<li>This talk does not deal with the method to write tests like TDD or whatever, despite that's interesting</li>
+						</ul>
+					</div>
+					<!-- <div class="pic"> -->
+					<!-- 	<img src="images/warning.svg" alt="rip" width="28%"> -->
+					<!-- </div> -->
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Our toy application</h2>
+					<h3>📺 code review...</h3>
+						<img src="images/screenshot_01.png" alt="screenshot_01" width="60%">
+						<h4><a href="https://github.com/sbauza/qttfo">https://github.com/sbauza/qttfo</a></h4>
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Unittest framework</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Coming straight from <a href=http://testingsoftware.blogspot.com/2007/08/smalltalk-testing-with-patterns.html>Smalltalk (and later Junit) testing patterns principles</a></li>
+							<li>Easy to read but API syntaxic</li>
+							<li>Builtin in python</li>
+							<li>Mock now included into the unittest framework, not a module anymore</li>
+							<li>Scope and test hierarchies are the keys to success</li>
+						</ul>
+					</div>
+					<img src="images/python_logo.svg" alt="python" width="50%">
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Pytest framework</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>External module</li>
+							<li>Can be extended with plugins</li>
+							<li>Fixtures oriented</li>
+							<li>Compatible with unittest</li>
+							<li>Bring a lot of features to discover and launch tests</li>
+						</ul>
+					</div>
+					<img src="images/pytest_logo.svg" alt="pytest" width="25%">
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>A classic sequence of testing</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>The test runner runs the sequence</li>
+							<li>Some grouping may happen within test suites</li>
+							<li>Fixtures are applied before the test</li>
+							<li>The unit of test is run</li>
+							<li>Some post-op and cleanup tasks are made</li>
+						</ul>
+					</div>
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Basic Unit Tests</h2>
+					<h3>📺 code review...</h3>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Unittest tests/unittest/test_character.py::TestHealth:</li>
+							<li>Pytest tests/pytest/test_character.py::TestHealth</li>
+						</ul>
+					</div>
+					<img src="images/spider.webp" alt="spider" width="25%">
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Test doubles</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Dummies : do nothing</li>
+							<li>Stubs : return canned data</li>
+							<li>Mocks : record calls to the object</li>
+							<li>Fakes : simplifies the logic by faking it</li>
+							<li>Spies : record and delegate to the real object</li>
+						</ul>
+					</div>
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Structure of a SUT : The A-A-A testing pattern</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Arrange : pre-conditions for your test</li>
+							<li>Act: the most minimalistic call that returns a response</li>
+							<li>Assert: assertions on the response state and ideally on the internal behaviour</li>
+						</ul>
+					</div>
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Mocking inputs</h2>
+					<h3>📺 code review...</h3>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Unittest tests/unittest/test_character.py::TestPlayer</li>
+							<li>Pytest tests/pytest/test_character.py::TestPlayer</li>
+						</ul>
+					</div>
+					<img src="images/ghost.webp" alt="ghost" width="12%">
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Mocking the client calls to our external service</h2>
+					<h3>📺 code review...</h3>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Unittest tests/unittest/test_client.py</li>
+							<li>Pytest tests/pytest/test_client.py</li>
+						</ul>
+					</div>
+					<img src="images/hound.webp" alt="hound" width="20%">
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Mocking stdout and advanced usage of mock objects</h2>
+					<h3>📺 code review...</h3>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Unittest tests/unittest/test_game.py</li>
+							<li>Pytest tests/pytest/test_game.py</li>
+						</ul>
+					</div>
+					<img src="images/bat.webp" alt="bat" width="30%">
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Eventually, mocking our controller</h2>
+					<h3>📺 code review...</h3>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Unittest tests/unittest/test_main.py</li>
+							<li>Pytest tests/pytest/test_main.py</li>
+						</ul>
+					</div>
+					<img src="images/krampus.webp" alt="krampus" width="20%">
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Do you feel the danger zone of mocking ?</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Too many stubs lead to false positives</li>
+							<li>Don't do state testing, prefer behavioural testing !</li>
+							<li>When you start piling the mocks for a single test, maybe this is a signal for a change...</li>
+						</ul>
+					</div>
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>What we could do then ?</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>Rewrite your interfaces using <a href="https://github.com/heykarimoff/solid.python/">SOLID principles</a>
+								by creating <a href="https://github.com/sbauza/python-patterns/blob/master/patterns/structural/adapter.py">Facades</a>
+								or <a href="https://github.com/sbauza/python-patterns/blob/master/patterns/structural/facade.py">Adapters</a></li>
+							<li>Try to follow <a href="https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell">Functional Core/Imperative Shell</a> as much as possible</li>
+							<li>Add integration tests</li>
+							<li>Use fakes for your unit and integration tests</li>
+						</ul>
+					</div>
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Tests pyramid</h2>
+					<div class="left_text">
+            <ul>
+              <li>Openstack</li>
+            	<ul>
+              	<li>tempest tests</li>
+              	<li>functional/integration tests (use fixtures)</li>
+              	<li>unit tests</li>
+            	</ul>
+              <li>Test types definition is foggy</li>
+            </ul>
+					</div>
+					<div class="pic">
+						<img src="images/pyramid.png" alt="pyramid" width="80%">
+					</div>
+        </section>
+
+		<section data-background="images/background.svg" data-background-size="cover">
+			<h2>Using fakes for our integration tests</h2>
+			<h3>📺 code review...</h3>
+			<div class="iwantitatleft">
+				<ul>
+					<li>Only patch the connection to the external API</li>
+					<li>This requires a stateful fixture for faking it</li>
+				</ul>
+			</div>
+			<img src="images/Deerclops.webp" alt="krampus" width="20%">
+		</section>
+
+				<!---->
+				<!-- <section data-background="images/background.svg" data-background-size="cover"> -->
+				<!-- 	<h2>Why this talk</h2> -->
+				<!-- 	<div class="iwantitatleft"> -->
+				<!-- 		<ul> -->
+				<!-- 			<li>Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.</li> -->
+				<!-- 		</ul> -->
+				<!-- 	</div> -->
+				<!-- </section> -->
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<h2>Don't starve</h2>
+					<div class="iwantitatleft">
+						<ul>
+							<li>All monsters pictures are copyrighted to Klei Entertainment</li>
+							<li>Buy this game it is really fun, and better than ours 😉</li>
+							<li><a href="https://www.klei.com/games/dont-starve">https://www.klei.com/games/dont-starve</a></li>
+						</ul>
+					</div>
+					<img src="images/don't_starve_cover.jpg" alt="don't starve" width="20%">
+				</section>
+
+				<section data-background="images/background.svg" data-background-size="cover">
+					<img src="images/thankyou.png" alt="thank you" width="50%">
+					<ul>
+            <li>Sylvain Bauza &lt;sbauza@redhat.com&gt;</li>
+            <li>René Ribaud &lt;rribaud@redhat.com&gt;</li>
+					</ul>
+				</section>
+
+			</div>
+
+		</div>
+
+		<script src="https://unpkg.com/reveal.js@3.8.0/lib/js/head.min.js"></script>
+		<script src="https://unpkg.com/reveal.js@3.8.0/js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: false,
+				width: 960,
+				height: 700,
+
+				// Factor of the display size that should remain empty around the content
+				margin: 0.1,
+				// Use this to print in pdf
+				// margin: 0.6,
+
+				// Bounds for smallest/largest possible scale to apply to content
+				minScale: 0.2,
+				maxScale: 1.5,
+
+				transition: 'convex', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'https://unpkg.com/reveal.js@3.8.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'https://unpkg.com/reveal.js@3.8.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'https://unpkg.com/reveal.js@3.8.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'https://unpkg.com/reveal.js@3.8.0/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'https://unpkg.com/reveal.js@3.8.0/plugin/zoom-js/zoom.js', async: true },
+					{ src: 'https://unpkg.com/reveal.js@3.8.0/plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
