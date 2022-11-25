@@ -12,7 +12,7 @@ cover: events/2022-12-15/static/cover.png
 ## Inscription
 
 <!-- TODO: update meetup event ID -->
-[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/289757113/){ .md-button }
+[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/289967993/){ .md-button }
 
 ## Résumé
 
