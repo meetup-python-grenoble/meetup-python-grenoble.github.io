@@ -34,14 +34,14 @@ Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueilli
 ## Liens
 
 
-[:fontawesome-solid-chalkboard-user: GitHub repository du projet avec les tests](https://github.com/sbauza/qttfo)
+[:fontawesome-brands-github: GitHub Repository](https://github.com/sbauza/qttfo)
 
-[:fontawesome-solid-chalkboard-user: Slides](quest_to_the_fake_object.html)
+[:fontawesome-solid-chalkboard-user: Slides](slides.html)
 
 ## Présentation
 
 <iframe
-  src="quest_to_the_fake_object.html"
+  src="slides.html"
   width="600"
   height="340"
   scrolling="no"
