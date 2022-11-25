@@ -30,3 +30,23 @@ Attention, des (mots-clés) barbares comme `pytest`, `unittest`, `mock`, `fixtur
 [René Ribaud](https://www.linkedin.com/in/ren%C3%A9-ribaud-44145137/) est ingénieur logiciel chez Red Hat.
 
 Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
+
+## Liens
+
+
+[:fontawesome-brands-github: GitHub Repository](https://github.com/sbauza/qttfo)
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.html)
+
+## Présentation
+
+<iframe
+  src="slides.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
