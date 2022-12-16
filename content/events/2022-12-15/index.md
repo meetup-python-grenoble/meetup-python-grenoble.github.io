@@ -39,3 +39,22 @@ Vous pouvez venir accompagnés de vos collègues et vos amis pour vous encourage
 Nous sélectionnerons 5 présentations et formerons une liste d'attente si besoin.
 
 À vos slides !
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides JupyterLite](jupyterlite.html)
+
+[:fontawesome-solid-book: Documentation Semantic Release](https://semantic-release.gitbook.io/semantic-release/)
+
+## Présentations
+
+<iframe
+  src="jupyterlite.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
