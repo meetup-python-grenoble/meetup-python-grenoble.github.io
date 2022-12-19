@@ -4,7 +4,7 @@ title: Présentations Surprises !
 date: 2022-12-15
 category: talk
 language: fr
-authors: []
+authors: [epupier, plbayart, fbest, rclement]
 location: turbine
 cover: events/2022-12-15/static/cover.png
 ---

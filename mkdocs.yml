@@ -32,6 +32,14 @@ extra:
       name: René Ribaud
       url: https://www.linkedin.com/in/ren%C3%A9-ribaud-44145137/
       avatar: https://avatars.githubusercontent.com/u/2332209
+    epupier:
+      name: Elise Pupier
+      url: https://www.linkedin.com/in/elise-pupier
+      avatar: https://avatars.githubusercontent.com/u/48104684
+    fbest:
+      name: François Best
+      url: https://www.linkedin.com/in/francoisbest
+      avatar: https://avatars.githubusercontent.com/u/1174092
   locations:
     turbine:
       name: La Turbine.coop
