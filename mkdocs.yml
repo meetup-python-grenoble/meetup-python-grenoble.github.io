@@ -97,6 +97,7 @@ nav:
   - 🎤 Events: events/index.md
   - 🎨 Branding: branding.md
   - 🐍 Zen: zen.md
+  - 🧪 Lab: /jupyterlite/
 
 plugins:
   - search:
