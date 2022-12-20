@@ -126,3 +126,6 @@ Thumbs.db
 
 # Vercel
 .vercel
+
+# JupyterLite
+.jupyterlite.doit.db

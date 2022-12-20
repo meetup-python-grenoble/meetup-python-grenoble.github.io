@@ -7,6 +7,9 @@ name = "pypi"
 
 [dev-packages]
 jupyterlab = "==3.5.2"
+jupyterlab-language-pack-fr-FR = "==3.5.post2"
+jupyterlab-webrtc-docprovider = "==0.1.1"
+jupyterlite = {extras = ["all"], version = "==0.1.0b16"}
 mkdocs = {version = "==1.4.2", extras = ["i18n"]}
 mkdocs-material = "==8.5.11"
 nbconvert = "==7.2.7"
