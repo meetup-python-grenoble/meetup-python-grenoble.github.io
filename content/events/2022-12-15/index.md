@@ -4,14 +4,13 @@ title: Présentations Surprises !
 date: 2022-12-15
 category: talk
 language: fr
-authors: []
+authors: [epupier, plbayart, fbest, rclement]
 location: turbine
 cover: events/2022-12-15/static/cover.png
 ---
 
 ## Inscription
 
-<!-- TODO: update meetup event ID -->
 [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/289967993/){ .md-button }
 
 ## Résumé
@@ -39,3 +38,48 @@ Vous pouvez venir accompagnés de vos collègues et vos amis pour vous encourage
 Nous sélectionnerons 5 présentations et formerons une liste d'attente si besoin.
 
 À vos slides !
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides Data For Good](d4g.pdf)
+
+[:fontawesome-solid-chalkboard-user: Slides Tableurs et Python](tableurs.pdf)
+
+[:fontawesome-solid-chalkboard-user: Slides JupyterLite](jupyterlite.html)
+
+[:fontawesome-solid-book: Documentation Semantic Release](https://semantic-release.gitbook.io/semantic-release/)
+
+## Présentations
+
+<iframe
+  src="d4g.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
+
+<iframe
+  src="tableurs.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
+
+<iframe
+  src="jupyterlite.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
