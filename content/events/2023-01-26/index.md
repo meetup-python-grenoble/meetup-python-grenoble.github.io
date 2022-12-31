@@ -2,7 +2,7 @@
 template: event.html
 title: Retour ludique sur l’année pythonique 2022
 date: 2023-01-26
-category: talk
+category: quiz
 language: fr
 authors: [rclement, plbayart]
 location: turbine
