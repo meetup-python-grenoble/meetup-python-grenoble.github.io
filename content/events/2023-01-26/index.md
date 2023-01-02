@@ -6,7 +6,7 @@ category: quiz
 language: fr
 authors: [rclement, plbayart]
 location: turbine
-cover: events/2022-01-26/static/cover.png
+cover: events/2023-01-26/static/cover.png
 ---
 
 ## Inscription
