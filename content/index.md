@@ -2,7 +2,6 @@
 title: Home
 hide:
   - footer
-ᴴₒᴴₒᴴₒ: true
 ---
 
 # 🐍 Meetup Python Grenoble
