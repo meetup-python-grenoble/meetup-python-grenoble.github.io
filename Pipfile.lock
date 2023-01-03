@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "138e97db22c645b589bb2b98f8da18b32c9a962130b72df92cf4f2f1657ecd11"
+            "sha256": "e6caf98f63ed63e1ad54e0bac19399d3c6506afe2a033909ffbac912a6b27c4c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -355,10 +355,10 @@
         },
         "json5": {
             "hashes": [
-                "sha256:993189671e7412e9cdd8be8dc61cf402e8e579b35f1d1bb20ae6b09baa78bbce",
-                "sha256:ad9f048c5b5a4c3802524474ce40a622fae789860a86f10cc4f7e5f9cf9b46ab"
+                "sha256:1aa54b80b5e507dfe31d12b7743a642e2ffa6f70bf73b8e3d7d1d5fba83d99bd",
+                "sha256:4f1e196acc55b83985a51318489f345963c7ba84aa37607e49073066c562e99b"
             ],
-            "version": "==0.9.10"
+            "version": "==0.9.11"
         },
         "jsonpointer": {
             "hashes": [
@@ -385,11 +385,11 @@
         },
         "jupyter-core": {
             "hashes": [
-                "sha256:f1038179d0f179b0e92c8fa2289c012b29dafdc9484b41821079f1a496f5a0f2",
-                "sha256:f342d29eb6edb06f8dffa69adea987b3a9ee2b6702338a8cb6911516ea0b432d"
+                "sha256:0f99cc639c8d00d591acfcc028aeea81473ea6c72fabe86426398220e2d91b1d",
+                "sha256:62b00d52f030643d29f86aafdfd9b36d42421823599a272eb4c2df1d1cc7f723"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==5.1.1"
+            "version": "==5.1.2"
         },
         "jupyter-events": {
             "hashes": [
@@ -529,11 +529,11 @@
         },
         "mkdocs-material": {
             "hashes": [
-                "sha256:2caf92a0aab3123ff505466578ded45ee3f14125128c68fe800254c4a4044310",
-                "sha256:d523c1d5d01cc8cf2aac78ba6393958501f3d2f060a9afb7cbd15337e77c21c3"
+                "sha256:5f838dffa46796575932ae2083cd1373e27c6d87254e090cea573a7d393e3f04",
+                "sha256:c0e2df04adeac45b8051160d042624c44429c4dd3efc8baaa9ddb2cd1309afb0"
             ],
             "index": "pypi",
-            "version": "==9.0.0"
+            "version": "==9.0.1"
         },
         "mkdocs-material-extensions": {
             "hashes": [
@@ -637,14 +637,6 @@
                 "sha256:9649af414d74d4df115d5d718f82acb59c9d418196b7b4290ed47a12ce62df56"
             ],
             "version": "==0.7.5"
-        },
-        "pipdeptree": {
-            "hashes": [
-                "sha256:8c012fd8ee79083806db9d1410a44648f71dba11364719aa40ed718f4762e964",
-                "sha256:9d666f77ff1b9528d01b3d98594096484f56de70d752abe22f13e681be239bd8"
-            ],
-            "markers": "python_version >= '3.7'",
-            "version": "==2.3.3"
         },
         "platformdirs": {
             "hashes": [
