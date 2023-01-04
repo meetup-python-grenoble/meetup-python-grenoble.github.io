@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e6caf98f63ed63e1ad54e0bac19399d3c6506afe2a033909ffbac912a6b27c4c"
+            "sha256": "9962263be5bc9a0a4a06d0d6acd73570b88f0133a2d6e61200f9bbf14079a203"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -317,11 +317,11 @@
         },
         "ipython": {
             "hashes": [
-                "sha256:352042ddcb019f7c04e48171b4dd78e4c4bb67bf97030d170e154aac42b656d9",
-                "sha256:882899fe78d5417a0aa07f995db298fa28b58faeba2112d2e3a4c95fe14bb738"
+                "sha256:da01e6df1501e6e7c32b5084212ddadd4ee2471602e2cf3e0190f4de6b0ea481",
+                "sha256:f3bf2c08505ad2c3f4ed5c46ae0331a8547d36bf4b21a451e8ae80c0791db95b"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==8.7.0"
+            "version": "==8.8.0"
         },
         "ipython-genutils": {
             "hashes": [
@@ -433,11 +433,11 @@
         },
         "jupyterlab-server": {
             "hashes": [
-                "sha256:9d74283291ec88b3e53b450a5007ac0fe531656bc219084e1ace91b546a90335",
-                "sha256:a5b6923e2a9ea299f98de5b50cde90722d74ef8f0713a75cbcbfbfd3f41ad058"
+                "sha256:2ce377afe6c5f762e933de1d942cad1ec07a1fbace4b586cd7a905fd57892695",
+                "sha256:7830f085debc9417a72ebf482dc5cb477d6bf76884826c73182fa457c7829df4"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.17.0"
+            "version": "==2.18.0"
         },
         "markdown": {
             "hashes": [
@@ -529,11 +529,11 @@
         },
         "mkdocs-material": {
             "hashes": [
-                "sha256:5f838dffa46796575932ae2083cd1373e27c6d87254e090cea573a7d393e3f04",
-                "sha256:c0e2df04adeac45b8051160d042624c44429c4dd3efc8baaa9ddb2cd1309afb0"
+                "sha256:c24e2127ada1d4d3deff09fa4bbe0a22f6e6bb7eaf7616e193138bf2a40d6580",
+                "sha256:e2f0af24be09c2aaea88a70bac9fcca976276074931c06fd0631b1981f5c74ad"
             ],
             "index": "pypi",
-            "version": "==9.0.1"
+            "version": "==9.0.2"
         },
         "mkdocs-material-extensions": {
             "hashes": [
