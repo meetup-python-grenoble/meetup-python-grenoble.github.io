@@ -46,7 +46,23 @@ body:
       label: Duration
       description: How long should the event last?
       multiple: false
-      options: [15mn, 30mn, 45mn, 60mn]
+      options: [15mn, 30mn, 45mn, 60mn, 120mn, 180mn]
+    validations:
+      required: true
+  - type: input
+    id: speaker_name
+    attributes:
+      label: Speaker Name
+      description: Who is the speaker?
+      placeholder: e.g. John Doe
+    validations:
+      required: true
+  - type: input
+    id: speaker_bio
+    attributes:
+      label: Speaker Bio
+      description: Who is the speaker?
+      placeholder: e.g. Python guru by day, open-source activist by night, John Doe is a pretty cool dude...
     validations:
       required: true
   - type: dropdown
