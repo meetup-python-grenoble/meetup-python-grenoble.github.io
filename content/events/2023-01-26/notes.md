@@ -6,13 +6,40 @@
 
 Quel problème de sécurité a eu PyPI à l'été 2022 ?
 
+- [ ] Une fuite de données des logins et mots de passe des utilisateurs
+- [x] Une attaque de phishing des utilisateurs
+- [ ] Une injection de code malveillant dans le framework Flask
+- [ ] Une injection de code malveillant pour miner du bitcoin dans le framework Keras
+
+Sources :
+
+- https://realpython.com/python-news-august-2022/#pypi-fights-malware-attacks
+
 ## Question 2
 
 Quelle est la place du langage Python dans le classement TIOBE 2022 ?
 
+- [x] 1er
+- [ ] 2ème après C
+- [ ] 2ème après JAVA
+- [ ] 2ème après C++
+
+Sources :
+
+- https://www.tiobe.com/tiobe-index/
+
 ## Question 3
 
 Qu'est-ce que les PDEP apparus en août 2022 ?
+
+- [ ] Plotly Drawings Enhancement Proposal
+- [ ] Python Deprecated Enhancement Proposal
+- [x] PanDas Enhancement Proposal
+- [ ] Python Dependencies Enhancement Proposal
+
+Sources :
+
+- https://realpython.com/python-news-august-2022/#python-has-peps-numpy-has-neps-pandas-now-has-pdeps
 
 ## Question 4
 
