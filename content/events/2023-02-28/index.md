@@ -20,3 +20,5 @@ Avec le langage **Python**, on peut (presque) tout faire : automatiser des tâch
 Que vous soyez **novice** ou **expérimenté** dans la valorisation des données en Python, venez participer à ce Meetup **collaboratif** et **engagé** !
 
 N'oubliez pas de **ramener votre ordinateur** !
+
+[Lien vers le site de Data for Good](https://dataforgood.fr/)
