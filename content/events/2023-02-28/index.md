@@ -6,7 +6,7 @@ category: workshop
 language: fr
 authors: [rclement, plbayart, epupier]
 location: turbine
-cover: static/cover.png
+cover: events/2023-02-28/static/cover.png
 ---
 
 ## Inscription
