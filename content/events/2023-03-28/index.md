@@ -1,6 +1,6 @@
 ---
 template: event.html
-title: Créer des siteweb Jupyter interactifs avec JupyterLite
+title: Créer des sites web Jupyter interactifs avec JupyterLite
 date: 2023-03-28
 category: talk
 language: fr
@@ -20,7 +20,7 @@ Les notebooks Jupyter sont un outil populaire dans les domaines de la science de
 
 L'écosystème Jupyter est vaste et complexe, avec différents projets et bibliothèques fonctionnant ensemble pour permettre la programmation interactive et la science des données. Dans un premier temps, nous explorerons l'écosystème Jupyter, en passant en revue les principaux projets et bibliothèques.
 
-Nous verrons comment les différents travaux au sein de l'écosystème Jupyter ont conduit au récent projet JupyterLite : une distribution Jupyter fonctionnant intégralement dans le navigateur sans composants côté serveur. Un avantage significatif de cette approche réside dans la facilité de déploiement. Cette partie sera consacrée à l'utilisation de l'interface en ligne de commande pour générer et personnaliser l'apparence et le comportement d'un siteweb Jupyter. Un tutoriel guidé donnera des instructions pas à pas pour ajouter du contenu, des extensions et de la configuration.
+Nous verrons comment les différents travaux au sein de l'écosystème Jupyter ont conduit au récent projet JupyterLite : une distribution Jupyter fonctionnant intégralement dans le navigateur sans composants côté serveur. Un avantage significatif de cette approche réside dans la facilité de déploiement. Cette partie sera consacrée à l'utilisation de l'interface en ligne de commande pour générer et personnaliser l'apparence et le comportement d'un site web Jupyter. Un tutoriel guidé donnera des instructions pas à pas pour ajouter du contenu, des extensions et de la configuration.
 
 À la fin, chacun sera en mesure de créer son propre site web JupyterLite avec des extensions et des paquets personnalisés.
 
