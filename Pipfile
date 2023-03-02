@@ -8,7 +8,7 @@ name = "pypi"
 [dev-packages]
 jupyterlab = "==3.6.1"
 mkdocs = {version = "==1.4.2", extras = ["i18n"]}
-mkdocs-material = "==9.0.15"
+mkdocs-material = "==9.1.0"
 nbconvert = "==7.2.9"
 
 [requires]
