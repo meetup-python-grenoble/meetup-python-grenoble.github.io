@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "44509b666e3e139a8c240aa6f7eb3bba3a1de2bc163869b0af19bf0c30fb3a32"
+            "sha256": "4b614d250535d7a0afb5d4d650c12ce7dc32b398125298a8329c45a5abd35a9a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -657,11 +657,11 @@
         },
         "mkdocs-material": {
             "hashes": [
-                "sha256:7b8a84594611e6b2c5391d996ccc2b3a2b410acd1027a65ce7533a3a43ff612b",
-                "sha256:8ce03306df37fc49300f0f1feea6f111004579c2050b5f6cb4924bbb4ca1ef1c"
+                "sha256:3b20d4e9ee28b2c276d391eb2c4e599ff8865e6c7dcab8146a7fd9805ca59263",
+                "sha256:836f0066c9346afc05b1962c146ea097025512bbb607c5f04a38248d7415f165"
             ],
             "index": "pypi",
-            "version": "==9.1.0"
+            "version": "==9.1.1"
         },
         "mkdocs-material-extensions": {
             "hashes": [
@@ -768,11 +768,11 @@
         },
         "platformdirs": {
             "hashes": [
-                "sha256:8a1228abb1ef82d788f74139988b137e78692984ec7b08eaa6c65f1723af28f9",
-                "sha256:b1d5eb14f221506f50d6604a561f4c5786d9e80355219694a1b244bcd96f4567"
+                "sha256:13b08a53ed71021350c9e300d4ea8668438fb0046ab3937ac9a29913a1a1350a",
+                "sha256:accc3665857288317f32c7bebb5a8e482ba717b474f3fc1d18ca7f9214be0cef"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==3.0.0"
+            "version": "==3.1.0"
         },
         "prometheus-client": {
             "hashes": [
@@ -842,11 +842,11 @@
         },
         "pymdown-extensions": {
             "hashes": [
-                "sha256:c3d804eb4a42b85bafb5f36436342a5ad38df03878bb24db8855a4aa8b08b765",
-                "sha256:ebb33069bafcb64d5f5988043331d4ea4929325dc678a6bcf247ddfcf96499f8"
+                "sha256:31eaa76ce6f96aabfcea98787c2fff2c5c0611b20a53a94213970cfbf05f02b8",
+                "sha256:562c38eee4ce3f101ce631b804bfc2177a8a76c7e4dc908871fb6741a90257a7"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==9.9.2"
+            "version": "==9.10"
         },
         "pyrsistent": {
             "hashes": [
