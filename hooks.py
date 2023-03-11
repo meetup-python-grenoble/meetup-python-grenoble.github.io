@@ -20,15 +20,18 @@ def on_env(env: jinja2.Environment, **kwargs: Any) -> None:
 
 
 def jupyterlite_build(output_dir: str) -> None:
-    output_path = Path(output_dir) / "lab"
     logger.info(f"Building JupyterLite...")
+    output_dir = Path(output_dir) / "jupyterlite"
+    lite_dir = Path(__file__).parent / "jupyterlite"
+
     start = time.monotonic()
     result = subprocess.run(
-        ("jupyter", "lite", "build", "--output-dir", output_path),
+        ("jupyter", "lite", "build", "--lite-dir", lite_dir, "--output-dir", output_dir),
         stdout=subprocess.DEVNULL,
         stderr=subprocess.DEVNULL,
     )
     result.check_returncode()
+
     logger.info(f"JupyterLite built in {time.monotonic() - start:.2f} seconds")
 
 
