@@ -1,5 +1,6 @@
 import logging
 import subprocess
+import time
 import jinja2
 
 from pathlib import Path
@@ -19,14 +20,16 @@ def on_env(env: jinja2.Environment, **kwargs: Any) -> None:
 
 
 def jupyterlite_build(output_dir: str) -> None:
-    output_path = Path(output_dir) / "jupyterlite"
-    logger.info(f"Building JupyterLite in {output_path}")
+    output_path = Path(output_dir) / "lab"
+    logger.info(f"Building JupyterLite...")
+    start = time.monotonic()
     result = subprocess.run(
         ("jupyter", "lite", "build", "--output-dir", output_path),
         stdout=subprocess.DEVNULL,
         stderr=subprocess.DEVNULL,
     )
     result.check_returncode()
+    logger.info(f"JupyterLite built in {time.monotonic() - start:.2f} seconds")
 
 
 def on_post_build(config: MkDocsConfig) -> None:
