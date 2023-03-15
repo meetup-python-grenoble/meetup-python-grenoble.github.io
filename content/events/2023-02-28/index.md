@@ -21,4 +21,23 @@ Que vous soyez **novice** ou **expérimenté** dans la valorisation des données
 
 N'oubliez pas de **ramener votre ordinateur** !
 
-[Lien vers le site de Data for Good](https://dataforgood.fr/)
+## Liens
+
+[:fontawesome-solid-link: Data for Good](https://dataforgood.fr/)
+
+[:fontawesome-brands-github: GitHub Repository](https://github.com/meetup-python-grenoble/Python-for-good)
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.pdf)
+
+## Présentation
+
+<iframe
+  src="slides.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
