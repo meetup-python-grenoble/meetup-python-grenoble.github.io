@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "855b3019ffa47deb749f95055f1f0c797bbc0ad34d14664f79d20d2a43168519"
+            "sha256": "0120b85a7f9f3fbb5e395fe539fb3315a13a5ef94a781f365a69c3d13954b029"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -24,14 +24,6 @@
             ],
             "markers": "python_full_version >= '3.6.2'",
             "version": "==3.6.2"
-        },
-        "appnope": {
-            "hashes": [
-                "sha256:02bd91c4de869fbb1e1c50aafc4098827a7a54ab2f39d9dcba6c9547ed920e24",
-                "sha256:265a455292d0bd8a72453494fa24df5a11eb18373a60c7c0430889f22548605e"
-            ],
-            "markers": "sys_platform == 'darwin'",
-            "version": "==0.1.3"
         },
         "argon2-cffi": {
             "hashes": [
@@ -560,11 +552,11 @@
                 "all"
             ],
             "hashes": [
-                "sha256:55a92f878fafc8b2e0f966aca7390db02780d0284678a39b768cef9c2d762b79",
-                "sha256:6e06a41c0137258c9527b6a997ec46f1732faa5fdb978e4393f33d9ae2744573"
+                "sha256:483bd79b99249239e1ac9f2df8399612c9fcc57916e027c78ba85976285870f8",
+                "sha256:86f353772d595a4135d5d3b97d5aab4205debd6c24cd6c180cb81c4dcd44c436"
             ],
             "index": "pypi",
-            "version": "==0.1.0b21"
+            "version": "==0.1.0b22"
         },
         "jupyterlite-pyodide-kernel": {
             "hashes": [
