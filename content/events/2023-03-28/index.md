@@ -25,3 +25,9 @@ Nous verrons comment les différents travaux au sein de l'écosystème Jupyter o
 À la fin, chacun sera en mesure de créer son propre site web JupyterLite avec des extensions et des paquets personnalisés.
 
 [Jérémy Tuloup](https://www.linkedin.com/in/jtuloup/) est Directeur Technique chez QuantStack et Code Développeur du projet Jupyter.
+
+## Liens
+
+[:fontawesome-brands-github: GitHub Repository](https://github.com/jtpio/python-meetup-grenoble-2023)
+
+[:fontawesome-solid-chalkboard-user: Slides](https://github.com/jtpio/python-meetup-grenoble-2023/blob/main/content/presentation.ipynb)
