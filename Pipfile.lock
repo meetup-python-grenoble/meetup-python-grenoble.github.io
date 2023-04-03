@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3e8278a95c05c6e0c6f1e0d4ba142f8cb950a7447635327109b61e2c4f4fe0d9"
+            "sha256": "a1567d60d1207e0b6e90a42cf7f8248f0bd32993b9bb0190d9401124389a528a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -533,11 +533,11 @@
         },
         "jupyterlab-server": {
             "hashes": [
-                "sha256:b4f5b48eaae1be83e2fd6fb77ac49d9b639be4ca4bd2e05b5368d29632a93725",
-                "sha256:ff1e7a81deb2dcb433215d469000988590fd5a5733574aa2698d643a6c9b3ace"
+                "sha256:0f9f6752b0c534a7b22a6542b984fa6a2c18ab4d4e0a4c79f191138506a9a75f",
+                "sha256:f4a7263ada89958854631a64bed45285caeac482925233159709f643c5871490"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.21.0"
+            "version": "==2.22.0"
         },
         "jupyterlab-webrtc-docprovider": {
             "hashes": [
@@ -552,11 +552,11 @@
                 "all"
             ],
             "hashes": [
-                "sha256:483bd79b99249239e1ac9f2df8399612c9fcc57916e027c78ba85976285870f8",
-                "sha256:86f353772d595a4135d5d3b97d5aab4205debd6c24cd6c180cb81c4dcd44c436"
+                "sha256:176d4dbec845a1ce1fd7cf03adf22aa176e618f113756381d822b19aa7454824",
+                "sha256:f90067d5756f982663777c31bfc4e54dfbfaf97a4ff0ea7f25f7909ebff9d53b"
             ],
             "index": "pypi",
-            "version": "==0.1.0b22"
+            "version": "==0.1.0rc0"
         },
         "jupyterlite-pyodide-kernel": {
             "hashes": [
@@ -689,11 +689,11 @@
         },
         "nbclassic": {
             "hashes": [
-                "sha256:889772a7ba524eb781d2901f396540bcad41151e1f7e043f12ebc14a6540d342",
-                "sha256:e849277872d9ffd8fe4b39a8038d01ba82d6a1def9ce11b1b3c26c9546ed5131"
+                "sha256:312b3f7d7ff2e6c261d51799bb12e6493498ab47d3469d3a01015d5533fd4d2b",
+                "sha256:df78e4ba143f35084ad060deec16cb1d4839dde47bfdbc4232beb7071a6d70ea"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==0.5.3"
+            "version": "==0.5.4"
         },
         "nbclient": {
             "hashes": [
