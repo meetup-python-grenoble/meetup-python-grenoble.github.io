@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a1567d60d1207e0b6e90a42cf7f8248f0bd32993b9bb0190d9401124389a528a"
+            "sha256": "562bf89124be8339032194cffa6a8c8457b57e40fd6e93e211e632a6c1a03f9a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -560,11 +560,11 @@
         },
         "jupyterlite-pyodide-kernel": {
             "hashes": [
-                "sha256:296979b1d8dc5ec7d70cf9742abae7266ec1581638984f34bb1517109615ab42",
-                "sha256:d8e4b96ef44fc7414e80db278d40e41d186731858e79788a55454436e2d9b964"
+                "sha256:2f9c61104ad61f1c4fa10af4ff36bf3c5682db353bf07c56548e0aa03bf7a0fa",
+                "sha256:38ee0889f83270e06d893de211bbcd2674d57ba5b3292b2f80c5fbb9eeb5fe71"
             ],
             "index": "pypi",
-            "version": "==0.0.5"
+            "version": "==0.0.6"
         },
         "libarchive-c": {
             "hashes": [
