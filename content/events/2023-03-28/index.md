@@ -11,7 +11,6 @@ cover: events/2023-03-28/static/cover.png
 
 ## Inscription
 
-<!-- TODO: Change Meetup event ID -->
 [:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/291818929/){ .md-button }
 
 ## Résumé
