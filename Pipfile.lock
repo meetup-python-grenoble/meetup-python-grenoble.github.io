@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cd4e5514eb8fc379fdc0b3625113b062fe36c6da800224baa07d30b632d57817"
+            "sha256": "177e7ca2144fc0d53c0cae03523bf48a5cee8c4ce277d6a941fb8295fe734c4c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -561,11 +561,11 @@
         },
         "jupyterlite-pyodide-kernel": {
             "hashes": [
-                "sha256:2f9c61104ad61f1c4fa10af4ff36bf3c5682db353bf07c56548e0aa03bf7a0fa",
-                "sha256:38ee0889f83270e06d893de211bbcd2674d57ba5b3292b2f80c5fbb9eeb5fe71"
+                "sha256:030f333dd32e292a74e9bf9833180c2b660a54c32d2b6e5c84439c399f7e011c",
+                "sha256:c0e3a1c719928c53cfc83366e74ec5c17324645192d1839b706adbb4f9b26e8d"
             ],
             "index": "pypi",
-            "version": "==0.0.6"
+            "version": "==0.0.7"
         },
         "libarchive-c": {
             "hashes": [
@@ -738,11 +738,11 @@
         },
         "notebook-shim": {
             "hashes": [
-                "sha256:090e0baf9a5582ff59b607af523ca2db68ff216da0c69956b62cab2ef4fc9c3f",
-                "sha256:9c6c30f74c4fbea6fce55c1be58e7fd0409b1c681b075dcedceb005db5026949"
+                "sha256:a83496a43341c1674b093bfcebf0fe8e74cbe7eda5fd2bbc56f8e39e1486c0c7",
+                "sha256:f69388ac283ae008cd506dda10d0288b09a017d822d5e8c7129a152cbd3ce7e9"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==0.2.2"
+            "version": "==0.2.3"
         },
         "packaging": {
             "hashes": [
