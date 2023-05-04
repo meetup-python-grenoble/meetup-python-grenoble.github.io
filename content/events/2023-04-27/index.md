@@ -4,7 +4,7 @@ title: Lightning Talks
 date: 2023-04-27
 category: talk
 language: fr
-authors: [rclement, plbayart]
+authors: [rclement, plbayart, amabroumi]
 location: turbine
 cover: events/2023-04-27/static/cover.png
 ---
