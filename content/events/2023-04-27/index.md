@@ -4,7 +4,7 @@ title: Lightning Talks
 date: 2023-04-27
 category: talk
 language: fr
-authors: [rclement, plbayart, amabroumi]
+authors: [rclement, plbayart, amabroumi, agrigah]
 location: turbine
 cover: events/2023-04-27/static/cover.png
 ---
@@ -31,6 +31,8 @@ Nous sélectionnerons **4 présentations**, et une liste d'attente sera mise en 
 
 [:fontawesome-solid-chalkboard-user: Slides "Comment travailler sur du texte français en Python ?"](nlp_francais_python.pdf)
 
+[:fontawesome-solid-chalkboard-user: Slides "Authentification multifacteurs (MF2A) avec Django"](presentation_MF2A.pdf)
+
 ## Présentations
 
 <iframe
@@ -53,6 +55,15 @@ Nous sélectionnerons **4 présentations**, et une liste d'attente sera mise en 
 
 <iframe
   src="nlp_francais_python.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen
+></iframe>
+
+<iframe
+  src="presentation_MF2A.pdf"
   width="600"
   height="340"
   scrolling="no"
