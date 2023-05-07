@@ -4,7 +4,7 @@ title: Lightning Talks
 date: 2023-04-27
 category: talk
 language: fr
-authors: [rclement, plbayart]
+authors: [rclement, plbayart, amabroumi, agrigah]
 location: turbine
 cover: events/2023-04-27/static/cover.png
 ---
@@ -22,3 +22,51 @@ Tous les sujets sont les bienvenus, tant qu'ils sont en **lien direct ou indirec
 Si vous **n'avez jamais eu l'occasion de prendre la parole** lors d'un événement de ce type, c’est une **très bonne occasion pour débuter**.
 
 Nous sélectionnerons **4 présentations**, et une liste d'attente sera mise en place en cas de besoin. Alors n'hésitez plus, préparez votre présentation et rejoignez-nous pour un moment sympa autour de Python en avril prochain !
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides "Est-ce que la programmation c'est de l'art ?"](programmation_art.pdf)
+
+[:fontawesome-solid-chalkboard-user: Slides "Authentification multifacteurs (MF2A) avec Django"](presentation_MF2A.pdf)
+
+[:fontawesome-solid-chalkboard-user: Slides "Fonctions Utilisateur SQLite en Python"](sqlite_udf.html)
+
+[:fontawesome-solid-chalkboard-user: Slides "Comment travailler sur du texte français en Python ?"](nlp_francais_python.pdf)
+
+## Présentations
+
+<iframe
+  src="programmation_art.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen
+></iframe>
+
+<iframe
+  src="presentation_MF2A.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen
+></iframe>
+
+<iframe
+  src="sqlite_udf.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen
+></iframe>
+
+<iframe
+  src="nlp_francais_python.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen
+></iframe>
