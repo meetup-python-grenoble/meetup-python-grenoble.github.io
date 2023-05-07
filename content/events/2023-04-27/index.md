@@ -27,16 +27,25 @@ Nous sélectionnerons **4 présentations**, et une liste d'attente sera mise en 
 
 [:fontawesome-solid-chalkboard-user: Slides "Est-ce que la programmation c'est de l'art ?"](programmation_art.pdf)
 
+[:fontawesome-solid-chalkboard-user: Slides "Authentification multifacteurs (MF2A) avec Django"](presentation_MF2A.pdf)
+
 [:fontawesome-solid-chalkboard-user: Slides "Fonctions Utilisateur SQLite en Python"](sqlite_udf.html)
 
 [:fontawesome-solid-chalkboard-user: Slides "Comment travailler sur du texte français en Python ?"](nlp_francais_python.pdf)
-
-[:fontawesome-solid-chalkboard-user: Slides "Authentification multifacteurs (MF2A) avec Django"](presentation_MF2A.pdf)
 
 ## Présentations
 
 <iframe
   src="programmation_art.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  allowfullscreen
+></iframe>
+
+<iframe
+  src="presentation_MF2A.pdf"
   width="600"
   height="340"
   scrolling="no"
@@ -55,15 +64,6 @@ Nous sélectionnerons **4 présentations**, et une liste d'attente sera mise en 
 
 <iframe
   src="nlp_francais_python.pdf"
-  width="600"
-  height="340"
-  scrolling="no"
-  frameborder="0"
-  allowfullscreen
-></iframe>
-
-<iframe
-  src="presentation_MF2A.pdf"
   width="600"
   height="340"
   scrolling="no"
