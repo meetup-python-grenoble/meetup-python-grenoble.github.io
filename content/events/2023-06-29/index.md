@@ -6,7 +6,7 @@ category: talk
 language: fr
 authors: [eleblond]
 location: turbine
-cover: static/generic-cover.png
+cover: events/2023-06-29/static/cover.png
 ---
 
 ## Inscription
