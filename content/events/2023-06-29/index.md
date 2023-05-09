@@ -11,8 +11,7 @@ cover: events/2023-06-29/static/cover.png
 
 ## Inscription
 
-<!-- TODO: change Meetup Event ID -->
-[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/291818929/){ .md-button }
+[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/293427669/){ .md-button }
 
 ## Résumé
 
@@ -36,3 +35,5 @@ prise en compte de son vote !
 Challenge accepted ! Cette présentation étudie le système Neovote pour comprendre en quoi leurs déclarations sont "très légèrement" exagérées.
 
 [Emmanuel Leblond](https://www.linkedin.com/in/emmanuel-leblond-5232916b/) est co-fondateur et directeur technique chez Scille.
+
+Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
