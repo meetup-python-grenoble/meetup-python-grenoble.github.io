@@ -52,6 +52,10 @@ extra:
       name: Anis Grigah
       url: https://www.linkedin.com/in/anis-grigah-8a7431227/
       avatar: https://ui-avatars.com/api/?name=Anis+Grigah
+    eleblond:
+      name: Emmanuel Leblond
+      url: https://www.linkedin.com/in/emmanuel-leblond-5232916b/
+      avatar: https://avatars.githubusercontent.com/u/3187637
   locations:
     turbine:
       name: La Turbine.coop
