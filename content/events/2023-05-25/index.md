@@ -26,3 +26,9 @@ Que vous soyez **novice** ou **expérimenté** en analyse de données en Python 
 [Pierre-Loïc Bayart](https://www.linkedin.com/in/pierreloicbayart/) est ingénieur de formation et formateur indépendant en traitement de données, intelligence artificielle et développement en Python, et co-organisateur du Meetup Python Grenoble.
 
 Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Workshop](https://meetup-python-grenoble.github.io/datasette-workshop/)
+
+[:fontawesome-brands-github: GitHub Repository](https://github.com/meetup-python-grenoble/datasette-workshop)
