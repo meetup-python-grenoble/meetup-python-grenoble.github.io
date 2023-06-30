@@ -26,3 +26,20 @@ Challenge accepted ! Cette présentation étudie le système Neovote pour compre
 [Emmanuel Leblond](https://www.linkedin.com/in/emmanuel-leblond-5232916b/) est co-fondateur et directeur technique chez Scille.
 
 Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.pdf)
+
+## Présentation
+
+<iframe
+  src="slides.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
