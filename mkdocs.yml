@@ -60,6 +60,9 @@ extra:
     turbine:
       name: La Turbine.coop
       address: 5 esplanade Andry Farcy, 38000 Grenoble, France
+    beersquaregrenoble:
+      name: Beer Square Grenoble
+      address: 3 esplanade Andry Farcy, 38000 Grenoble, France
   social:
     - icon: fontawesome/brands/meetup
       link: https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/
@@ -73,6 +76,7 @@ extra:
     talk: talk
     quiz: quiz
     workshop: workshop
+    bar: bar
 
 theme:
   name: material
