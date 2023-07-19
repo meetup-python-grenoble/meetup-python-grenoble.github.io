@@ -16,3 +16,20 @@ cover: events/2023-07-20/static/cover.jpg
 ## Résumé
 
 Pour le Meetup de **juillet**, nous vous proposons de nous retrouver autour d’un verre au bar "**Beer Square Grenoble**" au pied de la Turbine pour ne pas changer les bonnes habitudes (par contre on avance l'horaire à **18h** mais vous pouvez arriver plus tard). Ce sera l’occasion de faire un **bilan informel** de la **saison 2022-2023** des Meetups Python et de vous présenter quelques **analyses de données** des participations aux Meetups. On récompensera les 3 personnes qui ont été le plus assidues. Si vous **n'êtes jamais venu**, c'est aussi une très bonne occasion d'échanger sur les sujets des Meetups.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.html)
+
+## Présentation
+
+<iframe
+  src="slides.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
