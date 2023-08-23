@@ -30,7 +30,7 @@ jobs:
           pipenv run jupyter nbconvert \
             --to=slides \
             --output-dir='' \
-            --output='' \
+            --output='slides' \
             --SlidesExporter.file_extension=.html \
             --SlidesExporter.reveal_theme=white \
             content/events/*/slides.ipynb
