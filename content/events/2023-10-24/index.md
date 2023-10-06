@@ -23,3 +23,5 @@ Reprenons les bases :
 - Et mes conseils de débugging de ces situations.
 
 [Julien Lenormand](https://www.linkedin.com/in/julien-lenormand) est artisan logiciel chez KAIZEN Solutions, un Pythoniste expert des bases de code Python 2 et un afficionados du Meetup Python Grenoble.
+
+Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
