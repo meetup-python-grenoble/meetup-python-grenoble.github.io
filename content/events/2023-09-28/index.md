@@ -22,3 +22,20 @@ La gestion des versions et du CHANGELOG sur des applications évoluant rapidemen
 David Rigaudie est freelance senior tech lead et un Pythoniste averti. Il est également organisateur du Meetup Python Clermont-Ferrand.
 
 Technologie présentée : `semantic-release`
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.pdf)
+
+## Présentation
+
+<iframe
+  src="slides.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
