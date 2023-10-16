@@ -11,7 +11,7 @@ cover: events/2023-10-24/static/cover.jpg
 
 ## Inscription
 
-[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/295998085/){ .md-button }
+[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/296588093/){ .md-button }
 
 ## Résumé
 
