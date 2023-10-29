@@ -25,3 +25,20 @@ Reprenons les bases :
 [Julien Lenormand](https://www.linkedin.com/in/julien-lenormand) est artisan logiciel chez KAIZEN Solutions, un Pythoniste expert des bases de code Python 2 et un afficionados du Meetup Python Grenoble.
 
 Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](https://www.lenormand-julien.fr/talks/MeetupPython2023.11/index.html)
+
+## Présentation
+
+<iframe
+  src="https://www.lenormand-julien.fr/talks/MeetupPython2023.11/index.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
