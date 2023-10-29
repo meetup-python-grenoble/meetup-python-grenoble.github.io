@@ -19,9 +19,9 @@ Même si nous avons assuré une permanence informelle pendant l'été, la saison
 
 La gestion des versions et du CHANGELOG sur des applications évoluant rapidement peut être fastidieux. Pourquoi ne pas réaliser cela en automatique ? David Rigaudie vous présentera son approche avec un outil Python.
 
-David Rigaudie est freelance senior tech lead et un Pythoniste averti. Il est également organisateur du Meetup Python Clermont-Ferrand.
+David Rigaudie est freelance senior tech lead et un Pythoniste averti. Il est également organisateur du Meetup [PyClermont](https://pyclermont.org).
 
-Technologie présentée : `semantic-release`
+Technologie présentée : [`semantic-release`](https://python-semantic-release.readthedocs.io)
 
 ## Liens
 
