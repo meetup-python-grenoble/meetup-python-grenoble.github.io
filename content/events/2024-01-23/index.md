@@ -2,7 +2,7 @@
 template: event.html
 title: TBA
 date: 2024-01-23
-category: talk
+category: quiz
 language: fr
 authors: []
 location: turbine
