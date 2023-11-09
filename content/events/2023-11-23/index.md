@@ -1,6 +1,6 @@
 ---
 template: event.html
-title: Programmation fonctionnelle et pipelines de données
+title: Pipelines de données fonctionnels + L'avenir de l'éducation en IA avec Jupyter
 date: 2023-11-23
 category: talk
 language: fr
@@ -19,7 +19,7 @@ Pour ce meetup de novembre 2023, deux présentations au programme !
 
 Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueillir dans ses locaux.
 
-**Programmation fonctionnelle et pipelines de données** (Romain Clement)
+**Pipelines de données fonctionnels** (Romain Clement)
 
 Le développement de pipelines de traitement de données repose généralement sur le paradigme de "graphes orientés acycliques" (DAG). Penser un problème sous la forme d'un graphe permet de modulariser chaque étape et de définir précisément les dépendances et l'ordre d'exécution.
 
@@ -29,7 +29,7 @@ Nous verrons ensemble des exemples concrets d'utilisation de concepts de program
 
 [Romain Clement](https://www.linkedin.com/in/romainclement/) est ingénieur et formateur indépendant en traitement de données et intelligence artificielle, et organisateur du Meetup Python Grenoble.
 
-Technologies : `functools`, `itertools`, générateurs
+Technologies : [`functools`](https://docs.python.org/3/library/functools.html), [`itertools`](https://docs.python.org/3/library/itertools.html), [générateurs](https://docs.python.org/3/glossary.html#term-generator)
 
 **Construire l'avenir de l'éducation en IA avec Jupyter** (Pierre-Loïc Bayart)
 
