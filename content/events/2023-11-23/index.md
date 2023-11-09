@@ -23,7 +23,7 @@ Merci à la [Turbine.coop](https://turbine.coop/) de continuer à nous accueilli
 
 Le développement de pipelines de traitement de données repose généralement sur le paradigme de "graphes orientés acycliques" (DAG). Penser un problème sous la forme d'un graphe permet de modulariser chaque étape et de définir précisément les dépendances et l'ordre d'exécution.
 
-La programmation fonctionnelle trouve naturellement sa place pour la programmation de ces graphes de traitement. Même si le langage Python est multi-paradigme, les possibilités fonctionnelles intégrées à la bibliothèque standard sont suffisantes pour aborder au mieux ce genre de situation. Combiné avec les itérateurs et générateurs, les possibilités s'avèrent intéressantes !
+La programmation fonctionnelle trouve naturellement sa place pour la programmation de ces graphes. Même si le langage Python est multi-paradigme, les possibilités fonctionnelles intégrées à la bibliothèque standard sont suffisantes pour aborder au mieux ce genre de situation. Combiné avec les itérateurs et générateurs, les possibilités s'avèrent intéressantes !
 
 Nous verrons ensemble des exemples concrets d'utilisation de concepts de programmation fonctionnelle au service du développement de pipelines de traitements de données en Python.
 
