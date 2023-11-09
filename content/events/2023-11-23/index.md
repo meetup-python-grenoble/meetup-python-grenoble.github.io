@@ -31,6 +31,12 @@ Nous verrons ensemble des exemples concrets d'utilisation de concepts de program
 
 Technologies : `functools`, `itertools`, générateurs
 
-**?** (Pierre-Loïc Bayart)
+**Construire l'avenir de l'éducation en IA avec Jupyter** (Pierre-Loïc Bayart)
 
-[Pierre-Loïc Bayart](https://www.linkedin.com/in/pierreloicbayart/) est ingénieur de formation et formateur indépendant en traitement de données, intelligence artificielle et développement en Python, et organisateur du Meetup Python Grenoble.
+🤔 Avez-vous déjà imaginé un environnement d'apprentissage où chaque étudiant peut se former à l'intelligence artificielle à son propre rythme avec des outils open-source 🐍 ?
+
+Durant cette présentation, je vous exposerai les choix que j’ai effectués pour créer un module de formation pour une école d’ingénieur en Physique (Grenoble INP - Phelma) ainsi que les problèmes qu’il me reste à résoudre et les points à améliorer.
+
+[Pierre-Loïc Bayart](https://www.linkedin.com/in/pierreloicbayart/) est ingénieur de recherche pédagogique en intelligence artificielle à l'institut multidisciplinaire d'intelligence artificielle de Grenoble ([MIAI](https://miai.univ-grenoble-alpes.fr/institut-miai/l-institut-miai-grenoble-alpes-798295.kjsp)) et organisateur du Meetup Python Grenoble.
+
+Bibliothèques Python : [jupyter-book](https://jupyterbook.org/en/stable/intro.html), [jupyter-lite](https://jupyterlite.readthedocs.io/en/stable/), [jupyterhub](https://jupyter.org/hub), [jupyterlab](https://jupyterlab.readthedocs.io/en/latest/), [notebook](https://docs.jupyter.org/en/latest/), [nbviewer](https://nbviewer.org/), [rise](https://rise.readthedocs.io/en/latest/), [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/)
