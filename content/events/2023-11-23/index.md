@@ -45,10 +45,23 @@ Bibliothèques Python : [jupyter-book](https://jupyterbook.org/en/stable/intro.h
 
 [:fontawesome-solid-chalkboard-user: Slides "Pipelines de données fonctionnels"](functional-data-pipelines.html)
 
+[:fontawesome-solid-chalkboard-user: Slides "Construire l'avenir de l'éducation en IA avec Jupyter"](ia-jupyter.html)
+
 ## Présentation
 
 <iframe
   src="functional-data-pipelines.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
+
+<iframe
+  src=ia-jupyter.html"
   width="600"
   height="340"
   scrolling="no"
