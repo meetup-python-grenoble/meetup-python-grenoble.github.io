@@ -40,3 +40,33 @@ Durant cette présentation, je vous exposerai les choix que j’ai effectués po
 [Pierre-Loïc Bayart](https://www.linkedin.com/in/pierreloicbayart/) est ingénieur de recherche pédagogique en intelligence artificielle à l'institut multidisciplinaire d'intelligence artificielle de Grenoble ([MIAI](https://miai.univ-grenoble-alpes.fr/institut-miai/l-institut-miai-grenoble-alpes-798295.kjsp)) et organisateur du Meetup Python Grenoble.
 
 Bibliothèques Python : [jupyter-book](https://jupyterbook.org/en/stable/intro.html), [jupyter-lite](https://jupyterlite.readthedocs.io/en/stable/), [jupyterhub](https://jupyter.org/hub), [jupyterlab](https://jupyterlab.readthedocs.io/en/latest/), [notebook](https://docs.jupyter.org/en/latest/), [nbviewer](https://nbviewer.org/), [rise](https://rise.readthedocs.io/en/latest/), [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/)
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides "Pipelines de données fonctionnels"](functional-data-pipelines.html)
+
+[:fontawesome-solid-chalkboard-user: Slides "Construire l'avenir de l'éducation en IA avec Jupyter"](ia-jupyter.html)
+
+## Présentation
+
+<iframe
+  src="functional-data-pipelines.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
+
+<iframe
+  src=ia-jupyter.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
