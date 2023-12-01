@@ -4,7 +4,7 @@ title: Pipelines de données fonctionnels + L'avenir de l'éducation en IA avec 
 date: 2023-11-23
 category: talk
 language: fr
-authors: [rclement]
+authors: [rclement, plbayart]
 location: turbine
 cover: events/2023-11-23/static/cover.png
 ---
