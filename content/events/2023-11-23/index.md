@@ -61,7 +61,7 @@ Bibliothèques Python : [jupyter-book](https://jupyterbook.org/en/stable/intro.h
 ></iframe>
 
 <iframe
-  src=ia-jupyter.html"
+  src="ia-jupyter.html"
   width="600"
   height="340"
   scrolling="no"
