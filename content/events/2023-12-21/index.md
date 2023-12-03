@@ -6,7 +6,7 @@ category: talk
 language: fr
 authors: [rclement, plbayart]
 location: turbine
-cover: events/2023-12-21/static/cover.webp
+cover: events/2023-12-21/static/cover.jpg
 ---
 
 ## Inscription
