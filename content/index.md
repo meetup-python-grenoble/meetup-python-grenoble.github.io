@@ -8,7 +8,7 @@ hide:
 
 <!-- ![Logo](static/python-logo-generic.svg) -->
 
-![Banner](static/banner.png)
+![Banner](static/banner.webp)
 
 Python user group from [Grenoble (France)](https://www.grenoble.fr) discussing
 everything related to the [Python programming language](https://www.python.org),
