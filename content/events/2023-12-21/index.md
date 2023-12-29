@@ -26,3 +26,33 @@ En **quelques minutes**, présentez la **ressource de votre choix**. Partagez le
 
 **Qui peut venir ?**
 Que vous soyez **débutant**, **curieux** ou **expert confirmé** votre expérience et vos découvertes sont précieuses. Toutes les perspectives sont les bienvenues !
+
+## Liens
+
+Sylvain B.
+
+- ["Python Module of The Week"](https://pymotw.com/3/)
+- [Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/)
+
+Gilles G.
+
+- [Fun-MOOC "Python : des fondamentaux aux concepts avancés du langage"](https://www.fun-mooc.fr/en/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/)
+- [PyBind11](https://pybind11.readthedocs.io)
+
+René R.
+
+- [Real Python](https://realpython.com)
+- [Refactoring Guru](https://refactoring.guru)
+- [The Rust Book](https://doc.rust-lang.org/book/)
+- [Advent of Code 2023](https://adventofcode.com/2023)
+- [Underscore_ : Comment un étudiant en IA vient de révolutionner l’archéologie Romaine](https://www.youtube.com/watch?v=W_UQHr49Tvo)
+
+Romain C.
+
+- [Learning Python 4th edition, Mark Lutz](https://learning-python.com/about-lp.html)
+- [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com)
+
+Pierre-Loïc B.
+
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+- [Generative Deep Learning](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/)
