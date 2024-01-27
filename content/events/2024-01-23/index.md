@@ -20,3 +20,20 @@ Comme pour nos bonnes résolutions traditionnelles, pourquoi ne pas commencer 20
 Rejoignez-nous pour notre événement annuel, le "**Grand Quiz Python de l'Année 2023**". C'est le moment idéal pour revenir sur les **nouveautés** et les **avancées marquantes** de l'année passée dans l'univers **Python**. Que vous soyez **intéressé(e)** par le **développement web**, la **data science**, l'**intelligence artificielle** ou d'autres domaines, notre quiz couvrira une gamme étendue de sujets.
 
 Dans une ambiance **ludique** et **conviviale**, formez des **équipes** et venez tester votre **veille technique** de l'année 2023. Cet événement sera également une belle opportunité pour discuter des **dernières tendances** et **développements** dans l'**écosystème Python** et de ce que 2024 pourrait nous réserver.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.html)
+
+## Présentation
+
+<iframe
+  src="slides.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
