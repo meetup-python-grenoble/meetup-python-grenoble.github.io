@@ -119,6 +119,7 @@ theme:
 nav:
   - 🛖 Home: index.md
   - 🎤 Events: events/index.md
+  - 📰 Community news: community.md
   - 🎨 Branding: branding.md
   - 🐍 Zen: zen.md
   - 🧪 Lab: lab.md
