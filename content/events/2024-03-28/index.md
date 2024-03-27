@@ -4,7 +4,7 @@ title: Python Mapping for Good
 date: 2024-03-28
 category: workshop
 language: fr
-authors: [plbayart, epupier]
+authors: [jpic, epupier, plbayart]
 location: turbine
 cover: events/2024-03-28/static/cover.jpg
 ---

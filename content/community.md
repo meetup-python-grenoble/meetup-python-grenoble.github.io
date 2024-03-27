@@ -36,7 +36,7 @@ Website : https://eindhoven2024.pydata.org/cfp/cfp
 
 - Meetup Python Grenoble june : 27/06/24
 
-Next meetups in iCalendar format : https://github.com/meetup-python-grenoble/meetup-python-grenoble.github.io/blob/a0c6f0dc03a92cf7d0dd1c87a820380b4402615f/content/static/Meetup_Python_Grenoble.ics
+Next meetups in iCalendar format : <a href="https://raw.githubusercontent.com/meetup-python-grenoble/meetup-python-grenoble.github.io/main/content/static/Meetup_Python_Grenoble.ics">📅</a>
 
 ## 🗺️ Upcoming nation and international community events
 
