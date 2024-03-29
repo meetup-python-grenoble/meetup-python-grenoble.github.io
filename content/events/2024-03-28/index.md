@@ -23,10 +23,27 @@ ___
 
 <a href="https://meetup-python-grenoble.github.io/cartographie/lab/index.html" target="_blank">Lien vers le notebook de l'atelier</a>
 
-<a href="https://colab.research.google.com/github/meetup-python-grenoble/cartographie/blob/main/content/Atelier_cartographie.ipynb">
+<a href="https://colab.research.google.com/github/meetup-python-grenoble/cartographie/blob/main/content/Atelier_cartographie_final.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
 <a href="https://github.com/meetup-python-grenoble/cartographie">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Code Github"/>
 </a>
+
+___
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.pdf)
+
+## Présentation
+
+<iframe
+  src="slides.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
