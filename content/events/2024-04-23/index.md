@@ -1,6 +1,6 @@
 ---
 template: event.html
-title: TBA
+title: Summiting by submitting Python CFP
 date: 2024-04-23
 category: workshop
 language: fr
