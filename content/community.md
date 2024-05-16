@@ -10,41 +10,19 @@ hide:
 
 A Call for Proposals (CFP) is a process used by conferences to solicit submissions of presentations on specific topics (in our case, Python).
 
-- 🇵🇹 Pycon Portugal
-
-Submission deadline : 29/04/24
-
-Website : https://pretalx.evolutio.pt/pycon-portugal-2024/cfp
-
-- 🇳🇱 PyData Eindhoven 2024
-
-Submission deadline : 13/05/24
-
-Website : https://eindhoven2024.pydata.org/cfp/cfp
-
 - 🇫🇷 PyconFR 2024
 
-Submission deadline : ?
+Submission deadline : 21/07/24
 
-Website : https://cfp-2024.pycon.fr/cfp/
+Website : https://cfp.pycon.fr/pyconfr-2024/cfp
 
 ## ⛰️ Upcoming local (Grenoble - France) community events
-
-- Meetup Python Grenoble april : 23/04/24
-
-- Meetup Python Grenoble may : 23/05/24
 
 - Meetup Python Grenoble june : 27/06/24
 
 Next meetups in iCalendar format : <a href="https://raw.githubusercontent.com/meetup-python-grenoble/meetup-python-grenoble.github.io/main/content/static/Meetup_Python_Grenoble.ics">📅</a>
 
 ## 🗺️ Upcoming nation and international community events
-
-- 🇩🇪 PyCon DE & PyData Berlin 2024
-
-    - Date : 22/04/24 - 24/04/24
-    - Place : Berlin - Germany
-    - Website : https://2024.pycon.de/
 
 - 🇺🇸 PyCon US
 
