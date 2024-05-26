@@ -20,3 +20,20 @@ Immergez-vous dans les fondamentaux de l'**apprentissage profond** appliqué à 
 Bibliothèque Python utilisée : [Keras](https://keras.io/)
 
 Image d'illustration générée par intelligence artificielle (DALL-E 2)
+
+___
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.pdf)
+
+## Présentation
+
+<iframe
+  src="slides.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
