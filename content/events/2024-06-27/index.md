@@ -4,9 +4,9 @@ title: Atelier d'exploration des données d'Open Food Facts
 date: 2024-06-27
 category: workshop
 language: fr
-authors: [plbayart, raphodn]
+authors: [plbayart, rodini]
 location: turbine
-cover: events/2024-06-27/static/cover.webp
+cover: events/2024-06-27/static/cover.png
 ---
 
 ## Inscription
