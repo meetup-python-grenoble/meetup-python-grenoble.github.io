@@ -30,3 +30,16 @@ Déroulé de l’atelier :
 **N’oubliez pas votre ordinateur** si vous souhaitez expérimenter par vous-même ! 💻
 
 Pour prolonger cette expérience pratique, nous vous invitons à **apporter un produit à partager** lors d'un apéro convivial, où nous **analyserons ensemble la qualité nutritionnelle et environnementale** des produits consommés !
+
+___
+
+## Code
+
+[Lien vers le repo Github](https://github.com/data-for-good-grenoble/atelier-OFF)
+
+___
+
+## Pour aller plus loin
+
+- [Présentation d'Open Food Facts au FOSDEM 2024 (anglais, 15 minutes)](https://fosdem.org/2024/schedule/event/fosdem-2024-3595-open-food-facts-acting-on-the-health-and-environnemental-impacts-of-the-food-system/)
+- [Données d'Open Food Facts](https://fr.openfoodfacts.org/data)
