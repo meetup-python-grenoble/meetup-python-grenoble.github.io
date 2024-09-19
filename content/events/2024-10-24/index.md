@@ -1,10 +1,10 @@
 ---
 template: event.html
-title: TBA
+title: Rambo Python
 date: 2024-10-24
 category: talk
 language: fr
-authors: []
+authors: [lenormand]
 location: turbine
 cover: static/generic-cover.png
 ---
