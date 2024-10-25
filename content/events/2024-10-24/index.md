@@ -33,6 +33,10 @@ Après la présentation, nous pourrons échanger autour d'une collation offerte 
 
 Merci à la <a href="https://turbine.coop/">Turbine.coop</a> de continuer à nous accueillir dans ses locaux.
 
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](https://lenormju.github.io/lenormand-julien.fr/www/talks/Meetup%20Python%202024-10%20-%20Rambo%20Python.html)
+
 ## Présentation
 
 <iframe
