@@ -21,3 +21,16 @@ Je voudrais vous partager ma frustration de devoir encore maintenir du code dans
 
 **Orateur :** <a href="https://sessionize.com/lenormand-julien/">Julien Lenormand</a>
 Ingénieur DevOps et Responsable Software à Kaizen Solutions
+
+## Présentation
+
+<iframe
+  src="https://lenormju.github.io/lenormand-julien.fr/www/talks/Python2%20en%202024%20-%20Meetup%20Python%20Septembre%202024.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>

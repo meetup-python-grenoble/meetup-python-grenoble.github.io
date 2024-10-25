@@ -32,3 +32,16 @@ Orateurs :
 Après la présentation, nous pourrons échanger autour d'une collation offerte par l'entreprise <a href="https://kaizen-solutions.net/">Kaizen Solutions</a>.
 
 Merci à la <a href="https://turbine.coop/">Turbine.coop</a> de continuer à nous accueillir dans ses locaux.
+
+## Présentation
+
+<iframe
+  src="https://lenormju.github.io/lenormand-julien.fr/www/talks/Meetup%20Python%202024-10%20-%20Rambo%20Python.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
