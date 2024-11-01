@@ -1,6 +1,6 @@
 ---
 template: event.html
-title: TBA
+title: Lightning talks
 date: 2024-12-17
 category: talk
 language: fr
