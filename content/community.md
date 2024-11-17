@@ -55,6 +55,12 @@ Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStl
     - Place : Brussels (Belgium)
     - Website : https://fosdem.org/2025/schedule/track/python/
 
+- ⛰️ Alpes Open Source Software​
+
+    - Date : 20/02/25
+    - Place : Echirolles
+    - Website : https://alposs.fr/
+
 - 🗺️ GeoPython 2025
 
     - Date : 24/02/25 - 26/02/25
