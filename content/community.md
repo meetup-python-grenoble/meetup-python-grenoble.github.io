@@ -10,12 +10,6 @@ hide:
 
 A Call for Proposals (CFP) is a process used by conferences to solicit submissions of presentations on specific topics (in our case, Python).
 
-- 🗺️ GeoPython 2025
-
-Submission deadline : 15/11/24
-
-Website : https://submit.geopython.net/geopython-2025/cfp
-
 - 🇪🇺 Python devroom @ FOSDEM 2025
 
 Submission deadline : 01/12/24
@@ -28,20 +22,21 @@ Submission deadline : 15/01/25
 
 Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStlgQwEay8J1qfypfERKw0A/viewform
 
+## ⛰️ Upcoming local (Grenoble - France) community events
+
+- ⛰️ Snowcamp 2025
+
+    - Date : 22/01/25 - 25/01/25
+    - Place : Grenoble - World Trade Center
+    - Website : https://snowcamp.io/
+
+- ⛰️ Alpes Open Source Software​
+
+    - Date : 20/02/25
+    - Place : Echirolles
+    - Website : https://alposs.fr/
 
 ## 🗺️ Upcoming nation and international community events
-
-- 🇫🇷 PyconFR
-
-    - Date : 31/10/24 - 03/11/24
-    - Place : Strasbourg - France
-    - Website : https://www.pycon.fr/2024/
-
-- 🌐 PyData Impact Hackathon
-
-    - Date : 22/11/24 - 24/11/24
-    - Place : online
-    - Website : https://pydata.org/numhack/
 
 - 🌐 PyData Global 2024
 
@@ -54,12 +49,6 @@ Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStl
     - Date : 01/02/25 - 02/02/25
     - Place : Brussels (Belgium)
     - Website : https://fosdem.org/2025/schedule/track/python/
-
-- ⛰️ Alpes Open Source Software​
-
-    - Date : 20/02/25
-    - Place : Echirolles
-    - Website : https://alposs.fr/
 
 - 🗺️ GeoPython 2025
 
