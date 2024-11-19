@@ -6,12 +6,12 @@ category: talk
 language: fr
 authors: [plbayart]
 location: turbine
-cover: static/generic-cover.png
+cover: events/2024-12-17/static/cover.jpg
 ---
 
 ## Inscription
 
-[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/303769376/){ .md-button }
+[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/fr-FR/groupe-dutilisateurs-python-grenoble/events/304653673/){ .md-button }
 
 ## Résumé
 
