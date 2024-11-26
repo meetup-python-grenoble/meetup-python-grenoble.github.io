@@ -24,6 +24,18 @@ Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStl
 
 ## ⛰️ Upcoming local (Grenoble - France) community events
 
+- ⛰️ REX Artelia - Power BI User Group Grenoble
+
+    - Date : 05/12/24
+    - Place : Echirolles (Artelia)
+    - Website : https://www.linkedin.com/events/rexartelia-powerbiusergroupgren7265385282651275266/about/
+
+- ⛰️ Le Tremplin de Snowcamp 2 - Python, Deadlines, Linkedin, SmallTalk, JS...
+
+    - Date : 18/12/24
+    - Place : Echirolles (Criteo)
+    - Website : https://www.meetup.com/craftsrecords/events/304587027/
+
 - ⛰️ Snowcamp 2025
 
     - Date : 22/01/25 - 25/01/25
@@ -56,11 +68,23 @@ Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStl
     - Place : Basel (Switzerland)
     - Website : https://2025.geopython.net/
 
+- 🇦🇹 Pycon Austria
+
+    - Date : 06/04/25 - 07/04/25
+    - Place : Eisenstadt (Austria)
+    - Website : https://pycon.pyug.at/en/
+
 - 🇩🇪 PyCon DE & PyData 2025 
 
     - Date : 23/04/25 - 25/04/25
     - Place : Darmstadt (Germany)
     - Website : https://2025.pycon.de/
+
+- 🇮🇹 PyCon IT 2025
+
+    - Date : 28/05/25 - 31/05/25
+    - Place : Bologna (Italy)
+    - Website : https://2025.pycon.it/en
 
 - 🇪🇪 PyCon Estonia 2025
 
