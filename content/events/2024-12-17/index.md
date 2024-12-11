@@ -19,7 +19,7 @@ Rejoignez-nous pour le Meetup Python du mois de décembre, un événement au for
 
 **Liste des présentations :**
 
-- *Comparaison Python / Matlab* par Alexander Aksenov
+- *Matlab vu après une transition vers Python* par Alexander Aksenov
 - *Rust, meilleur ami de Python* par Julien Lenormand
 - *Optimiser l'entretien des espaces verts avec Python : analyse de vues satellitaires et cartographie des zones à traiter* par Damien Sauzet
 - *Télécommander un navigateur Python avec Playwright* par Martin Kirchgessner
