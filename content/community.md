@@ -10,12 +10,6 @@ hide:
 
 A Call for Proposals (CFP) is a process used by conferences to solicit submissions of presentations on specific topics (in our case, Python).
 
-- 🇪🇺 Python devroom @ FOSDEM 2025
-
-Submission deadline : 01/12/24
-
-Website : https://lists.fosdem.org/pipermail/fosdem/2024q4/003564.html
-
 - 🇪🇪 PyCon Estonia 2025
 
 Submission deadline : 15/01/25
@@ -23,12 +17,6 @@ Submission deadline : 15/01/25
 Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStlgQwEay8J1qfypfERKw0A/viewform
 
 ## ⛰️ Upcoming local (Grenoble - France) community events
-
-- ⛰️ REX Artelia - Power BI User Group Grenoble
-
-    - Date : 05/12/24
-    - Place : Echirolles (Artelia)
-    - Website : https://www.linkedin.com/events/rexartelia-powerbiusergroupgren7265385282651275266/about/
 
 - ⛰️ Le Tremplin de Snowcamp 2 - Python, Deadlines, Linkedin, SmallTalk, JS...
 
@@ -49,12 +37,6 @@ Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStl
     - Website : https://alposs.fr/
 
 ## 🗺️ Upcoming nation and international community events
-
-- 🌐 PyData Global 2024
-
-    - Date : 03/12/24 - 05/12/24
-    - Place : online
-    - Website : https://pydata.org/global2024/
 
 - 🇪🇺 Python devroom @ FOSDEM 2025
 
