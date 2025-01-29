@@ -10,25 +10,13 @@ hide:
 
 A Call for Proposals (CFP) is a process used by conferences to solicit submissions of presentations on specific topics (in our case, Python).
 
-- 🇪🇪 PyCon Estonia 2025
+- 🇪🇺 EuroPython 2025
 
-Submission deadline : 15/01/25
+Submission deadline : 03/02/25
 
-Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStlgQwEay8J1qfypfERKw0A/viewform
+Website : https://programme.europython.eu/europython-2025/
 
 ## ⛰️ Upcoming local (Grenoble - France) community events
-
-- ⛰️ Le Tremplin de Snowcamp 2 - Python, Deadlines, Linkedin, SmallTalk, JS...
-
-    - Date : 18/12/24
-    - Place : Echirolles (Criteo)
-    - Website : https://www.meetup.com/craftsrecords/events/304587027/
-
-- ⛰️ Snowcamp 2025
-
-    - Date : 22/01/25 - 25/01/25
-    - Place : Grenoble - World Trade Center
-    - Website : https://snowcamp.io/
 
 - ⛰️ Alpes Open Source Software​
 
@@ -67,6 +55,12 @@ Website : https://docs.google.com/forms/d/e/1FAIpQLScn-H2turgLHVbbm6g3t6MeOBmStl
     - Date : 28/05/25 - 31/05/25
     - Place : Bologna (Italy)
     - Website : https://2025.pycon.it/en
+
+- 🇪🇺 EuroPython 2025
+
+    - Date : 14/07/25 - 20/07/25
+    - Place : Prague
+    - Website : https://ep2025.europython.eu/
 
 - 🇪🇪 PyCon Estonia 2025
 
