@@ -1,6 +1,6 @@
 ---
 template: event.html
-title: UV : rayonnez avec la nouvelle puissance de Python
+title: "UV : rayonnez avec la nouvelle puissance de Python"
 date: 2025-03-27
 location: turbine
 category: talk
