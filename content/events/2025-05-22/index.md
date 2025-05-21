@@ -11,7 +11,7 @@ cover: events/2025-05-22/static/cover.jpg
 
 ## Inscription
 
-A venir
+[:fontawesome-brands-meetup: Meetup](https://www.meetup.com/groupe-dutilisateurs-python-grenoble/events/307644229/){ .md-button }
 
 ## Résumé
 
