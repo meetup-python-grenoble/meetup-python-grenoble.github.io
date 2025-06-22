@@ -74,6 +74,18 @@ extra:
     mkirchgessner:
       name: Martin Kirchgessner
       url: https://www.linkedin.com/in/martin-kirchgessner/
+    slehmann:
+      name: Sylvia Lehmann
+      url: https://www.linkedin.com/in/sylvia-lehmann/
+      avatar: https://avatars.githubusercontent.com/u/61006817
+    gurard:
+      name: Guillaume Urard
+      url: https://www.linkedin.com/in/guillaume-urard/
+      avatar: https://avatars.githubusercontent.com/u/29442757
+    mguilleray:
+      name: Matthis Guilleray
+      url: https://www.linkedin.com/in/matthis-guilleray/
+      avatar: https://avatars.githubusercontent.com/u/46895019
   locations:
     turbine:
       name: La Turbine.coop

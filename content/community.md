@@ -18,12 +18,6 @@ Website : https://cfp.pycon.fr/pyconfr-2025/cfp
 
 ## 🗺️ Upcoming nation and international community events
 
-- 🇮🇹 PyCon IT 2025
-
-    - Date : 28/05/25 - 31/05/25
-    - Place : Bologna (Italy)
-    - Website : https://2025.pycon.it/en
-
 - 🇪🇺 EuroPython 2025
 
     - Date : 14/07/25 - 20/07/25
