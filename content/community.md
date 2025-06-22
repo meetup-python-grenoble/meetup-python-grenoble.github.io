@@ -42,6 +42,12 @@ Website : https://cfp.pycon.fr/pyconfr-2025/cfp
     - Place : Tallinn (Estonia)
     - Website : https://pycon.ee/
 
+- 🇪🇺 OpenInfra Summit Europe 2025
+
+    - Date : 17/10/25 - 19/10/25
+    - Place : Palaiseau (France)
+    - Website : https://openinfra.org/blog/openinfra-summit-2025
+
 - 🇫🇷 PyconFr 2025
 
     - Date : 30/10/25 - 02/11/25
