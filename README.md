@@ -1,6 +1,6 @@
 # 🐍 Meetup Python Grenoble
 
-![Banner](content/static/banner.jpeg)
+![Banner](content/static/banner.jpg)
 
 Python user group from [Grenoble (France)](https://www.grenoble.fr) discussing
 everything related to the [Python programming language](https://www.python.org),

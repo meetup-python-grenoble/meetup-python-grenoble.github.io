@@ -4,7 +4,7 @@ title: "Lightning Talks"
 date: 2025-06-24
 category: talk
 language: fr
-authors: [slehmann, gurard, jlenormand, ]
+authors: [slehmann, gurard, jlenormand, mguilleray]
 location: turbine
 cover: events/2025-06-24/static/cover.jpg
 ---
