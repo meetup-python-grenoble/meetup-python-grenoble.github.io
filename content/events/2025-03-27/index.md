@@ -24,12 +24,16 @@ En quelques mois, uv a révolutionné la façon d'utiliser Python, tout simpleme
 Venez découvrir ce que c'est, pour quoi faire, pourquoi, par qui, comment, et vers quoi.
 Vous repartirez avec une compréhension suffisante pour pouvoir l'utiliser, mais surtout j'espère l'envie de s'y mettre.
 
+Nous vous invitons à apporter de quoi grignoter ou boire pour un apéro informel.
+Merci à la Turbine.coop de continuer à nous accueillir dans ses locaux.
+
+___
+
 Orateur :
 
 - [Julien Lenormand](https://sessionize.com/lenormand-julien/) : Ingénieur DevOps et Responsable Software à Kaizen Solutions
 
-Nous vous invitons à apporter de quoi grignoter ou boire pour un apéro informel.
-Merci à la Turbine.coop de continuer à nous accueillir dans ses locaux.
+[Lien vers les différentes conférences de Julien Lenormand](https://www.lenormand-julien.fr/talks.html)
 
 ## Présentation
 

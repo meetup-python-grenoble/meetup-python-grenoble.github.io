@@ -34,10 +34,21 @@ ___
 
 ### Automatisation et paramétrage de notebooks jupyter avec papermil par [Sylvia Lehmann](https://www.linkedin.com/in/sylvia-lehmann/)
 
-[:fontawesome-solid-chalkboard-user: Slides](slides_sylvia.pdf)
-
 <iframe
   src="slides_sylvia.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
+
+### Retour d'expérience : pytest pour faciliter les comptes rendus d'outils métiers par [Guillaume Urard](https://www.linkedin.com/in/guillaume-urard/)
+
+<iframe
+  src="https://gui-u.github.io/talk-python-pytest-pour-faciliter-les-comptes-rendu-d-outils-metiers/#/"
   width="600"
   height="340"
   scrolling="no"
