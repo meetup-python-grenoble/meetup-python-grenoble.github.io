@@ -30,3 +30,16 @@ Orateur :
 
 Nous vous invitons à apporter de quoi grignoter ou boire pour un apéro informel.
 Merci à la Turbine.coop de continuer à nous accueillir dans ses locaux.
+
+## Présentation
+
+<iframe
+  src="https://www.lenormand-julien.fr/talks/Human%20Talks%20Grenoble%20D%C3%A9cembre%202024%20-%20uv%20-%20la%20r%C3%A9volution%20pour%20Python.html#/title-slide"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
