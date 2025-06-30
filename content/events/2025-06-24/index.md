@@ -27,3 +27,22 @@ Merci à la [Turbine](https://turbine.coop/) de continuer à nous accueillir dan
 - *Retour d'expérience : pytest pour faciliter les comptes rendus d'outils métiers* par [Guillaume Urard](https://www.linkedin.com/in/guillaume-urard/)
 - *Bonnes pratiques de logging* par [Julien Lenormand](https://www.linkedin.com/in/julien-lenormand)
 - *MediaPipe Python : Donnez des yeux à votre ordinateur* par [Matthis Guilleray](https://www.linkedin.com/in/matthis-guilleray/)
+
+___
+
+## Présentations
+
+### Automatisation et paramétrage de notebooks jupyter avec papermil par [Sylvia Lehmann](https://www.linkedin.com/in/sylvia-lehmann/)
+
+[:fontawesome-solid-chalkboard-user: Slides](slides_sylvia.pdf)
+
+<iframe
+  src="slides_sylvia.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
