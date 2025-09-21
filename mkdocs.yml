@@ -139,7 +139,7 @@ theme:
       workshop: fontawesome/solid/laptop-code
 
 nav:
-  - 🛖 Home: index.md
+  - 🏠 Home: index.md
   - 🎤 Events: events/index.md
   - 📰 Community news: community.md
   - 🎨 Branding: branding.md

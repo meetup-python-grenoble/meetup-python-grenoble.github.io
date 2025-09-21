@@ -38,15 +38,15 @@ A Call for Proposals (CFP) is a process used by conferences to solicit submissio
 
 - PyCon Finland 2025
 
-  - Date : 17/10/25  
-  - Place : Jyväskylä (Finland)  
-  - Website : https://2025.ploneconf.org/pyconfi-2025
+    - Date : 17/10/25  
+    - Place : Jyväskylä (Finland)  
+    - Website : https://2025.ploneconf.org/pyconfi-2025
 
 - PyConES 2025  
 
-  - Date : 17/10/25 - 19/10/25  
-  - Place : Sevilla (Spain)  
-  - Website : https://2025.es.pycon.org/  
+    - Date : 17/10/25 - 19/10/25  
+    - Place : Sevilla (Spain)  
+    - Website : https://2025.es.pycon.org/  
 
 - OpenInfra Summit Europe 2025
 
@@ -62,12 +62,12 @@ A Call for Proposals (CFP) is a process used by conferences to solicit submissio
 
 - PyCon DE & PyData Berlin 2026
 
-  - Date : 13/04/26 - 17/04/26  
-  - Place : Darmstadt (Germany)  
-  - Website : https://2025.pycon.de/
+    - Date : 13/04/26 - 17/04/26  
+    - Place : Darmstadt (Germany)  
+    - Website : https://2025.pycon.de/
 
 - PyCon Italia 2026
 
-  - Date : 27/05/26 - 30/05/26  
-  - Place : Bologna (Italy)  
-  - Website : https://pycon.it/ 
+    - Date : 27/05/26 - 30/05/26  
+    - Place : Bologna (Italy)  
+    - Website : https://pycon.it/ 
