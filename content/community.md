@@ -6,53 +6,74 @@ hide:
 
 # 📰 Community news
 
+## ⛰️ Local events
+
+- 💡 Coding-dojo Grenoble
+
+    - Date : 30/10/25
+    - Website : https://www.meetup.com/alpescraft-coding-dojos/events/311550653/
+
+- 💡 Human Talks Grenoble
+
+    - Date : 04/11/25
+    - Website : https://www.meetup.com/humantalks-grenoble/events/310387558/
+
+- 💡 Grenoble - Robotique et IA
+
+    - Date : 04/11/25
+    - Website : https://www.meetup.com/grenoble-robotique-et-ia/events/311552727/
+
+- 💡 Grenoble - Open Artificial Intelligence
+
+    - Date : 05/11/25
+    - Website : https://www.meetup.com/grenoble-open-artificial-intelligence-meetup-group/events/311405375/
+
+- 💡 Grenoble Data Science meetups
+
+    - Date : 06/11/25
+    - Website : https://sites.google.com/view/grenobledatascience/home
+
+- 🎤 Agile Grenoble 2025
+
+    - Date : 19/11/25 - 21/11/25
+    - Place : Grenoble (WTC)
+    - Website : https://agile-grenoble.org/
+
+- 💡 Le Tremplin de Snowcamp
+
+    - Date : 20/11/25
+    - Place : Échirolles (Criteo)
+    - Website : https://www.meetup.com/craftsrecords/events/311588513/
+
+- 🎤 Open Science Days @ UGA
+
+    - Date : 25/11/25 - 27/11/25
+    - Place : Saint Martin d'Hères (Bâtiment IMAG)
+    - Website : https://osd-uga-2025.sciencesconf.org/?lang=fr
+
+- 🎤 Snowcamp 2026
+
+    - Date : 14/01/26 - 17/01/26
+    - Place : Grenoble (Alpexpo)
+    - Website : https://snowcamp.io/
+
+- 🎤 Tech & Fest 2026
+
+    - Date : 04/02/26 - 05/02/26
+    - Place : Grenoble (Alpexpo)
+    - Website : https://www.tech-fest.fr/fr
+
+- 🎤 Alpes Open Source Software
+
+    - Date : 17/02/2026
+    - Place : Echirolles (La Rampe)
+    - Website : https://alposs.fr/
+
 ## 📢 Opened CFP (Call for Proposals)
 
 A Call for Proposals (CFP) is a process used by conferences to solicit submissions of presentations on specific topics (in our case, Python).
 
 ## 🗺️ Upcoming nation and international community events
-
-- PyData Paris 2025
-
-    - Date : 30/09/25 - 01/10/25
-    - Place : Paris
-    - Website : https://pydata.org/paris2025
-
-- PyCon Estonia 2025
-
-    - Date : 02/10/25 - 03/10/25
-    - Place : Tallinn (Estonia)
-    - Website : https://pycon.ee/
-
-- Pycon NL 2025
-
-    - Date : 16/10/25 - 16/10/25
-    - Place : Utrecht (The Netherlands)
-    - Website : https://pycon-nl.org/
-
-- Swiss Python Summit 2025
-
-    - Date : 16/10/25 - 17/10/25
-    - Place : Rapperswil (Switzerland)
-    - Website : https://www.python-summit.ch/
-
-- PyCon Finland 2025
-
-    - Date : 17/10/25  
-    - Place : Jyväskylä (Finland)  
-    - Website : https://2025.ploneconf.org/pyconfi-2025
-
-- PyConES 2025  
-
-    - Date : 17/10/25 - 19/10/25  
-    - Place : Sevilla (Spain)  
-    - Website : https://2025.es.pycon.org/  
-
-- OpenInfra Summit Europe 2025
-
-    - Date : 17/10/25 - 19/10/25
-    - Place : Palaiseau (France)
-    - Website : https://openinfra.org/blog/openinfra-summit-2025
 
 - PyconFr 2025
 
