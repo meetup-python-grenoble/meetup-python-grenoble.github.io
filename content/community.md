@@ -73,6 +73,11 @@ hide:
 
 A Call for Proposals (CFP) is a process used by conferences to solicit submissions of presentations on specific topics (in our case, Python).
 
+- 🎤 Alpes Open Source Software
+
+    - End date : 16/11/2025
+    - Website : https://pretalx.com/alposs-2026/cfp
+
 ## 🗺️ Upcoming nation and international community events
 
 - PyconFr 2025
