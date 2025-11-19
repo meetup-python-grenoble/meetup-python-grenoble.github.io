@@ -8,43 +8,6 @@ hide:
 
 ## ⛰️ Local events
 
-- 💡 Coding-dojo Grenoble
-
-    - Date : 30/10/25
-    - Website : https://www.meetup.com/alpescraft-coding-dojos/events/311550653/
-
-- 💡 Human Talks Grenoble
-
-    - Date : 04/11/25
-    - Website : https://www.meetup.com/humantalks-grenoble/events/310387558/
-
-- 💡 Grenoble - Robotique et IA
-
-    - Date : 04/11/25
-    - Website : https://www.meetup.com/grenoble-robotique-et-ia/events/311552727/
-
-- 💡 Grenoble - Open Artificial Intelligence
-
-    - Date : 05/11/25
-    - Website : https://www.meetup.com/grenoble-open-artificial-intelligence-meetup-group/events/311405375/
-
-- 💡 Grenoble Data Science meetups
-
-    - Date : 06/11/25
-    - Website : https://sites.google.com/view/grenobledatascience/home
-
-- 🎤 Agile Grenoble 2025
-
-    - Date : 19/11/25 - 21/11/25
-    - Place : Grenoble (WTC)
-    - Website : https://agile-grenoble.org/
-
-- 💡 Le Tremplin de Snowcamp
-
-    - Date : 20/11/25
-    - Place : Échirolles (Criteo)
-    - Website : https://www.meetup.com/craftsrecords/events/311588513/
-
 - 🎤 Open Science Days @ UGA
 
     - Date : 25/11/25 - 27/11/25
@@ -73,24 +36,19 @@ hide:
 
 A Call for Proposals (CFP) is a process used by conferences to solicit submissions of presentations on specific topics (in our case, Python).
 
-- 🎤 Alpes Open Source Software
-
-    - End date : 16/11/2025
-    - Website : https://pretalx.com/alposs-2026/cfp
-
 ## 🗺️ Upcoming nation and international community events
-
-- PyconFr 2025
-
-    - Date : 30/10/25 - 02/11/25
-    - Place : Lyon
-    - Website : https://www.pycon.fr/2025/
 
 - PyCon DE & PyData Berlin 2026
 
     - Date : 13/04/26 - 17/04/26  
     - Place : Darmstadt (Germany)  
     - Website : https://2025.pycon.de/
+
+- PyCon Austria 2026
+
+    - Date : 19/04/26 - 20/04/26  
+    - Place : Eisenstadt (Austria)  
+    - Website : https://pycon.at/
 
 - PyCon Italia 2026
 
