@@ -5,7 +5,7 @@
     ":preserveSemverRanges",
     ":disableDependencyDashboard"
   ],
-  "enabledManagers": ["pipenv", "github-actions"],
+  "enabledManagers": ["pep621", "github-actions"],
   "rangeStrategy": "bump",
   "labels": ["dependencies"],
   "assignees": ["rclement"],

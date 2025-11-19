@@ -1,0 +1,22 @@
+[project]
+name = "meetup-python-grenoble"
+version = "0.0.0"
+description = "Meetup Python Grenoble"
+authors = [
+    { name = "Pierre-Loïc Bayart", email = "plbayart@gmail.com" },
+    { name = "Romain Clement", email = "git@romain-clement.net" },
+]
+readme = "README.md"
+requires-python = ">=3.10,<3.15"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "jupyterlab-language-pack-fr-FR==4.4.post3",
+    "jupyterlab-webrtc-docprovider==0.1.1",
+    "jupyterlite-core[all]==0.6.4",
+    "jupyterlite-pyodide-kernel==0.6.1",
+    "mkdocs[i18n]==1.6.1",
+    "mkdocs-material==9.7.0",
+    "nbconvert==7.16.6",
+]
