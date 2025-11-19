@@ -15,4 +15,4 @@ mkdocs-material = "==9.7.0"
 nbconvert = "==7.16.6"
 
 [requires]
-python_version = "3.10"
+python_version = "3.13"
