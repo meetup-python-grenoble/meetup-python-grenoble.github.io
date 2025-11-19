@@ -151,8 +151,7 @@ plugins:
       lang:
         - en
         - fr
-  - tags:
-      tags_file: tags.md
+  - tags
 
 hooks:
   - hooks.py
