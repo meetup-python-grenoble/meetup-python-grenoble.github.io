@@ -11,7 +11,6 @@ Register to events on [Meetup.com](https://www.meetup.com/fr-FR/groupe-dutilisat
 ## Development
 
 ```bash
-pipenv install -d
-pipenv shell
-mkdocs serve --watch-theme
+uv sync
+uv run mkdocs serve --watch-theme
 ```
