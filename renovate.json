@@ -9,5 +9,11 @@
   "rangeStrategy": "bump",
   "labels": ["dependencies"],
   "assignees": ["rclement"],
-  "reviewers": ["rclement"]
+  "reviewers": ["rclement"],
+  "packageRules": [
+    {
+      "matchPackageNames": ["/jupyterlite/"],
+      "groupName": "jupyterlite"
+    }
+  ]
 }
