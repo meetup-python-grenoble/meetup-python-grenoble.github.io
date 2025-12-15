@@ -8,12 +8,6 @@ hide:
 
 ## ⛰️ Local events
 
-- 🎤 Open Science Days @ UGA
-
-    - Date : 25/11/25 - 27/11/25
-    - Place : Saint Martin d'Hères (Bâtiment IMAG)
-    - Website : https://osd-uga-2025.sciencesconf.org/?lang=fr
-
 - 🎤 Snowcamp 2026
 
     - Date : 14/01/26 - 17/01/26
