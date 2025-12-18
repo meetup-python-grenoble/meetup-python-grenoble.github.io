@@ -23,11 +23,11 @@ Merci à la [Turbine](https://turbine.coop/) de continuer à nous accueillir dan
 
 **Liste des présentations :**
 
-- Un mauvais pattern en Python-data et comment l’éviter par Arthur Lacote
+- Un mauvais pattern en Python-data et comment l’éviter par [Arthur Lacote](https://www.linkedin.com/in/arthur-lcte/)
 
-- Outils pour la Data Science : application à la médecine personnalisée par Marie Perrin
+- Outils pour la Data Science : application à la médecine personnalisée par [Marie Perrin](https://www.linkedin.com/in/marie-perrin-phd/)
 
-- Construire des apps Data utiles avec Streamlit par Florian Ladreyt
+- Construire des apps Data utiles avec Streamlit par [Florian Ladreyt](https://www.linkedin.com/in/florian-ladreyt-data-analyste/)
 
 ___
 
