@@ -29,3 +29,19 @@ Merci à la [Turbine](https://turbine.coop/) de continuer à nous accueillir dan
 
 - Construire des apps Data utiles avec Streamlit par Florian Ladreyt
 
+___
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.pdf)
+
+## Présentation
+
+<iframe
+  src="slides.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
