@@ -12,7 +12,7 @@ dependencies = []
 
 [dependency-groups]
 dev = [
-    "jupyterlab-language-pack-fr-FR==4.4.post3",
+    "jupyterlab-language-pack-fr-FR==4.5.post0",
     "jupyterlab-webrtc-docprovider==0.1.1",
     "jupyterlite-core[all]==0.7.1",
     "jupyterlite-pyodide-kernel==0.7.0",
