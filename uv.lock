@@ -875,11 +875,11 @@ wheels = [
 
 [[package]]
 name = "jupyterlab-language-pack-fr-fr"
-version = "4.5.post0"
+version = "4.5.post1"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/1d/4e/4fac2edba36d346cfa1baececc4d7cc79a4ae1eddd5df49ea2f5aa57b2ee/jupyterlab_language_pack_fr_fr-4.5.post0.tar.gz", hash = "sha256:ac3ceedb6627b1cdc49a147ddf6240c825537e7efe3e987e16c1feea6723f8d9", size = 150902, upload-time = "2026-01-06T12:04:40.81Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/dd/7e/ea6b37df67d20ddc8e04931e374273654491b43e0ea20daadf7c727c53c4/jupyterlab_language_pack_fr_fr-4.5.post1.tar.gz", hash = "sha256:63f3198a1408d74d07d948bcd40ede295c42dc4158cead1607b2c647b607a55f", size = 152219, upload-time = "2026-01-09T19:05:10.127Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/2d/5d/4cd3b8e4a5fda11de82dc89e8e0b5c1ef9e8151cabd951c1a644260820b4/jupyterlab_language_pack_fr_fr-4.5.post0-py2.py3-none-any.whl", hash = "sha256:fd2d947ffe599eb6b95cc23efbf4d4f775d2b2941cd6ec3bab823c12d50bb3c0", size = 214986, upload-time = "2026-01-06T12:04:00.504Z" },
+    { url = "https://files.pythonhosted.org/packages/a2/e4/6060580cf6f8ea709f6637e553d583969b1350c70c6b93dea774d0a8f6b8/jupyterlab_language_pack_fr_fr-4.5.post1-py2.py3-none-any.whl", hash = "sha256:c1a851ec71da883d327895332502ec967e46c2743b535e2dc0fdb5fec384f20a", size = 220304, upload-time = "2026-01-09T19:04:18.467Z" },
 ]
 
 [[package]]
@@ -1101,7 +1101,7 @@ dev = [
 
 [package.metadata.requires-dev]
 dev = [
-    { name = "jupyterlab-language-pack-fr-fr", specifier = "==4.5.post0" },
+    { name = "jupyterlab-language-pack-fr-fr", specifier = "==4.5.post1" },
     { name = "jupyterlab-webrtc-docprovider", specifier = "==0.1.1" },
     { name = "jupyterlite-core", extras = ["all"], specifier = "==0.7.1" },
     { name = "jupyterlite-pyodide-kernel", specifier = "==0.7.0" },
