@@ -24,3 +24,20 @@ Dans une **ambiance ludique**, formez des équipes et testez votre veille techni
 Pour prolonger ce moment d'échange et de partage autour de Python, nous vous invitons à apporter un produit à **partager lors d'un apéro** convivial.
 
 Merci à la Turbine.coop de continuer à nous accueillir dans ses locaux.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.html)
+
+## Présentation
+
+<iframe
+  src="slides.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
