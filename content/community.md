@@ -8,31 +8,16 @@ hide:
 
 ## ⛰️ Local events
 
-- 🎤 Tech & Fest 2026
+- 🎤 AlpesCraft 2026
 
-    - Date : 04/02/26 - 05/02/26
+    - Date : 04/06/26 - 05/06/26
     - Place : Grenoble (Alpexpo)
-    - Website : https://www.tech-fest.fr/fr
-
-- 🎤 Alpes Open Source Software
-
-    - Date : 17/02/2026
-    - Place : Echirolles (La Rampe)
-    - Website : https://alposs.fr/
+    - Website : https://www.alpescraft.fr/
 
 ## 📢 Opened CFP (Call for Proposals)
 
 A Call for Proposals (CFP) is a process used by conferences to solicit submissions of presentations on specific topics (in our case, Python).
 
-- EuroSciPy 2026
-
-    - End date : 08/02/2026
-    - Website : https://pretalx.com/euroscipy-2026/cfp
-
-- EuroPython 2026
-
-    - End date : 15/02/2026 
-    - Website : https://ep2026.europython.eu/cfp/
 
 ## 🗺️ Upcoming nation and international community events
 
