@@ -920,16 +920,16 @@ wheels = [
 
 [[package]]
 name = "jupyterlite-core"
-version = "0.7.1"
+version = "0.7.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "doit" },
     { name = "jupyter-core" },
     { name = "pycparser", marker = "platform_python_implementation == 'PyPy'" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/c4/11/1e48ddaae568efc2d8354ff89e9e46425e32a033df600286521488d5656d/jupyterlite_core-0.7.1.tar.gz", hash = "sha256:e9c1068f875c2e75dca3771a035eb31826a41343e62bbb77c80ad2a3478b6986", size = 16187634, upload-time = "2025-12-16T15:25:57.922Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/ec/d5/cb3601962de578536bd5826649aeae6a5f6579a2b1a3f6bf4711f8b48f62/jupyterlite_core-0.7.2.tar.gz", hash = "sha256:fb5bb3d133543597e4b315342bd8d83da7ed44363b587b4643c676e9e4648a5b", size = 16190551, upload-time = "2026-02-23T14:01:08.284Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/5b/01/faee5289868a295955fd24ea92210dfad30e480b149debe2b50f26e4d5fc/jupyterlite_core-0.7.1-py3-none-any.whl", hash = "sha256:0d99339e83e186888b6f22ec7e7ced4485ca0eaf7bb53284cae0f4001c961c78", size = 16200295, upload-time = "2025-12-16T15:25:54.235Z" },
+    { url = "https://files.pythonhosted.org/packages/42/6e/4c7db132518af259a124be29b01d63729888fdcb4bb98598fb448938bf81/jupyterlite_core-0.7.2-py3-none-any.whl", hash = "sha256:9b8d245848c8a99e97c5f76702e1ccf15ac0c91eb927055806a97298ee03acab", size = 16203093, upload-time = "2026-02-23T14:01:05.637Z" },
 ]
 
 [package.optional-dependencies]
@@ -1103,7 +1103,7 @@ dev = [
 dev = [
     { name = "jupyterlab-language-pack-fr-fr", specifier = "==4.5.post1" },
     { name = "jupyterlab-webrtc-docprovider", specifier = "==0.1.1" },
-    { name = "jupyterlite-core", extras = ["all"], specifier = "==0.7.1" },
+    { name = "jupyterlite-core", extras = ["all"], specifier = "==0.7.2" },
     { name = "jupyterlite-pyodide-kernel", specifier = "==0.7.0" },
     { name = "mkdocs", extras = ["i18n"], specifier = "==1.6.1" },
     { name = "mkdocs-material", specifier = "==9.7.2" },
