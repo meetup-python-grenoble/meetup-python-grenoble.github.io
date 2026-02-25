@@ -23,3 +23,33 @@ Chaque groupe échangera librement autour de questions comme :
 - Quelles perspectives à court et moyen terme pour l’écosystème Python ?
 
 Venez partager, questionner, confronter vos points de vue et repartir avec des idées nouvelles.
+
+## Liens
+
+[:fontawesome-solid-chalkboard-user: Slides](slides.html)
+
+## Présentation
+
+<iframe
+  src="slides.html"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
+
+## Cartes
+
+<iframe
+  src="cartes.pdf"
+  width="600"
+  height="340"
+  scrolling="no"
+  frameborder="0"
+  webkitallowfullscreen
+  mozallowfullscreen
+  allowfullscreen
+></iframe>
