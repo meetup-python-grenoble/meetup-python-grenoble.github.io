@@ -864,7 +864,7 @@ wheels = [
 
 [[package]]
 name = "jupyterlab"
-version = "4.6.1"
+version = "4.6.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "async-lru" },
@@ -881,10 +881,11 @@ dependencies = [
     { name = "tomli", marker = "python_full_version < '3.11'" },
     { name = "tornado" },
     { name = "traitlets" },
+    { name = "typing-extensions", marker = "python_full_version < '3.12'" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/bc/2a/d6af53bfd45a43a5bfe7e40ba47ee7a8921a807daf4bb708e3a295bbb54d/jupyterlab-4.6.1.tar.gz", hash = "sha256:75315982ed28427edaa62bb85eadb5105e4043a757643c910efd787fe6ed0837", size = 28179125, upload-time = "2026-06-29T12:48:45.402Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/00/c0/45934229995d4c6e38192ca118d93185f60808f64157e3df3c5c28f8c5fd/jupyterlab-4.6.3.tar.gz", hash = "sha256:2e3db6e3a12495ebd188276e985bf5ac502fbde3d1e8628819920210008de498", size = 28319771, upload-time = "2026-08-10T18:50:57.947Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/5a/81/90ac6cc31d248e83a0d1eab343a5e6e68bc783d3f74fbe61640f42a61da4/jupyterlab-4.6.1-py3-none-any.whl", hash = "sha256:85a58546c831f3dce6cf919468c26874c9065e99c42279fb4abb8e1b552a98bb", size = 17164660, upload-time = "2026-06-29T12:48:41.21Z" },
+    { url = "https://files.pythonhosted.org/packages/e9/47/242f46de028074651c9bd6d8000fc340ed0d3cdd1a0eae4387826123413a/jupyterlab-4.6.3-py3-none-any.whl", hash = "sha256:0a1ebc6567186f1eabd99536e94df7ed9e96d1e7c5ddf3e4406ae16e88abacb7", size = 17168312, upload-time = "2026-08-10T18:50:53.044Z" },
 ]
 
 [[package]]
@@ -934,16 +935,16 @@ wheels = [
 
 [[package]]
 name = "jupyterlite-core"
-version = "0.8.1"
+version = "0.8.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "doit" },
     { name = "jupyter-core" },
     { name = "pycparser", marker = "platform_python_implementation == 'PyPy'" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/53/b4/9d2eec0da17a0b4358240b4fd136643e3e02f05bc11b37cd280c6f865eac/jupyterlite_core-0.8.1.tar.gz", hash = "sha256:3265a3bc5bd49e433ecf90dde09ced38b841dc9eb0860bf1e7ef627033a92d3c", size = 15872209, upload-time = "2026-07-08T09:13:19.945Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/72/31/9b18a4cac1925ca9229c62a0a734554c91f8795b19dc6e2be18084334a56/jupyterlite_core-0.8.3.tar.gz", hash = "sha256:92735e2de4e1f67b411a218094d609b21350327d46454d89de84f113cd8440ae", size = 15791222, upload-time = "2026-08-20T14:27:29.986Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/33/00/99dc2f8e97baaa2670073dde4e33b6ed816b0e227a38f60c22e5d511c1ca/jupyterlite_core-0.8.1-py3-none-any.whl", hash = "sha256:6d0667324b41015135e6d2fa67db501c0101a08623ccd3c326b5ec6725816420", size = 15884058, upload-time = "2026-07-08T09:13:16Z" },
+    { url = "https://files.pythonhosted.org/packages/c8/f1/c527ec3191c1d4f3019c4fdf08697adfdbb4054e31b0282b559cf15d4aa4/jupyterlite_core-0.8.3-py3-none-any.whl", hash = "sha256:f61b1dc434368794850dfeb9089e91bc86a2741dd6966e061edb028c8112c2e3", size = 15803305, upload-time = "2026-08-20T14:27:26.402Z" },
 ]
 
 [package.optional-dependencies]
@@ -960,15 +961,15 @@ all = [
 
 [[package]]
 name = "jupyterlite-pyodide-kernel"
-version = "0.8.2"
+version = "0.8.6"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "jupyterlite-core" },
     { name = "pkginfo" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/06/d5/cecbbd02b4c37c2b5d4810101294440acfb5d310e0483e97c54d9a2eb6a6/jupyterlite_pyodide_kernel-0.8.2.tar.gz", hash = "sha256:2fdbe6ec5e024dac08f2bd1b5199e1c0fa770851a1895949586ae1c9d2e85636", size = 311882, upload-time = "2026-07-15T07:41:39.28Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/e5/d8/ee2e0ce2dbe1a3d4efe4af38aee3f3a7fcef832d9b064c786c7e9acec7aa/jupyterlite_pyodide_kernel-0.8.6.tar.gz", hash = "sha256:ef53c638b1034473d72549642feb2fb9b8bfded970c7d5908551896c2b9b1268", size = 209172, upload-time = "2026-09-10T14:02:14.396Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/da/41/20e1d2acc2b0e8d97767b0bef62b187a8766766bb85dadcfef918a35415c/jupyterlite_pyodide_kernel-0.8.2-py3-none-any.whl", hash = "sha256:ad22231458015e32500186197874d06d00874f7939df8986afd44739124b87e5", size = 325446, upload-time = "2026-07-15T07:41:37.135Z" },
+    { url = "https://files.pythonhosted.org/packages/3c/59/95d3f962ea620eea8e0ad8fbcde3e66745be6afc0f864c5534c9c53979e7/jupyterlite_pyodide_kernel-0.8.6-py3-none-any.whl", hash = "sha256:c9e698420e7f95f156c09c1474898ee6727b35b1740b369cb5f5aaa59ea73d3f", size = 222455, upload-time = "2026-09-10T14:02:12.218Z" },
 ]
 
 [[package]]
@@ -1117,8 +1118,8 @@ dev = [
 dev = [
     { name = "jupyterlab-language-pack-fr-fr", specifier = "==4.5.post3" },
     { name = "jupyterlab-webrtc-docprovider", specifier = "==0.1.1" },
-    { name = "jupyterlite-core", extras = ["all"], specifier = "==0.8.1" },
-    { name = "jupyterlite-pyodide-kernel", specifier = "==0.8.2" },
+    { name = "jupyterlite-core", extras = ["all"], specifier = "==0.8.3" },
+    { name = "jupyterlite-pyodide-kernel", specifier = "==0.8.6" },
     { name = "mkdocs", extras = ["i18n"], specifier = "==1.6.1" },
     { name = "mkdocs-material", specifier = "==9.7.7" },
     { name = "nbconvert", specifier = "==7.17.1" },
@@ -1285,7 +1286,7 @@ wheels = [
 
 [[package]]
 name = "notebook"
-version = "7.6.0"
+version = "7.6.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "jupyter-builder" },
@@ -1295,9 +1296,9 @@ dependencies = [
     { name = "notebook-shim" },
     { name = "tornado" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/0d/44/d5c65783f490298473bb1c05722e05ee2256231389559c2c5ae0a3e5d975/notebook-7.6.0.tar.gz", hash = "sha256:ea13e79e601bf273074895fdfb17dd3f2da916d3c045e0b9c47d18b16ab62481", size = 5497344, upload-time = "2026-06-18T16:18:55.202Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/31/d9/5c76de84e96e1cf8aae3fce930875e0615e14f3557bbcdb634aab52da9d3/notebook-7.6.2.tar.gz", hash = "sha256:cc02b5f0bb972160cccfe44ad8a1a202036206ba3439469c514f03aefa9ae807", size = 5500147, upload-time = "2026-08-11T13:21:16.632Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/93/d1/e617c40db57ff40e75f43a7d4d1c305e3a54c053ab5cb0534a6c314664f9/notebook-7.6.0-py3-none-any.whl", hash = "sha256:98aa2811b54ac191321d5dfce12ca700f8a511a33a26e4de2fa106a357c43d6a", size = 5544575, upload-time = "2026-06-18T16:18:52.551Z" },
+    { url = "https://files.pythonhosted.org/packages/5c/fd/3e552ff5b24dd305c6e9a10e8645e29c03091c317429f326ae10dbae1ac6/notebook-7.6.2-py3-none-any.whl", hash = "sha256:5fe9e09c335cb4b7de21627b860f77210e70e54b1fb1276ad942a4a7e1d858d3", size = 5547102, upload-time = "2026-08-11T13:21:13.302Z" },
 ]
 
 [[package]]
