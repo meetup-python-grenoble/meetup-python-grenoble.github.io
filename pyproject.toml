@@ -17,6 +17,6 @@ dev = [
     "jupyterlite-core[all]==0.8.4",
     "jupyterlite-pyodide-kernel==0.8.6",
     "mkdocs[i18n]==1.6.1",
-    "mkdocs-material==9.7.7",
+    "mkdocs-material==9.8.0",
     "nbconvert==7.17.1",
 ]
